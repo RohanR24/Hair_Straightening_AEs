@@ -1,6 +1,5 @@
 import sys
 import os
-import argparse
 import math
 import textwrap
 import pandas as pd
@@ -16,30 +15,7 @@ from matplotlib.lines import Line2D
 # Config
 # ----------------------------------------------------------------------------
 
-
-def parse_args():
-    """Command-line interface. Replaces v2's HARD_CODED_XLSX_PATH constant so
-    this script is runnable by anyone with the workbook, not just on the
-    machine/account it was originally written on."""
-    parser = argparse.ArgumentParser(
-        description="Generate publication-ready figures and tables from the "
-                     "validated ROR analysis workbook (hair-straightening "
-                     "cosmetics adverse event reporting study)."
-    )
-    parser.add_argument(
-        "xlsx_path",
-        help="Path to the validated ROR analysis Excel workbook, e.g. "
-             "Cosmetics_AE_ROR_Analysis_WITH_DEMOGRAPHICS.xlsx",
-    )
-    parser.add_argument(
-        "output_dir",
-        nargs="?",
-        default=None,
-        help="Directory to write figures/, tables/, and the legend files into. "
-             "Defaults to a 'pub_outputs' folder created next to the input "
-             "workbook if omitted.",
-    )
-    return parser.parse_args()
+HARD_CODED_XLSX_PATH = r"/Users/rohanrattan/Desktop/Research_Projects/Cosmetics_opeFDA_Analysis/Cosmetics_AE_ROR_Analysis_WITH_DEMOGRAPHICS.xlsx"
 
 DPI = 600                    # comfortably above the 300-350 ppi minimums cited across
                               # JAMA Network's own figure-prep pages
@@ -48,12 +24,7 @@ SAVE_FORMATS = ["png", "pdf", "eps"]
 
 
 def _pick_font(preferred):
-    """Pick the first available font from a preference list instead of hardcoding
-    one. Hardcoding "Arial" silently fell back to whatever matplotlib's default is
-    (DejaVu Sans) on any machine without Arial installed -- one findfont warning
-    per text element, and different font metrics (so different line wraps/spacing)
-    depending on which computer ran the script. This makes the choice explicit and
-    reproducible, and tells you plainly which font you actually got."""
+   
     available = {f.name for f in fm.fontManager.ttflist}
     for name in preferred:
         if name in available:
@@ -500,12 +471,7 @@ def build_table3_demographics(report_characteristics_df, outdir, table1_summary_
 
 
 def _cross_check_table3(computed_rows, arms, wb_lookup):
-    """Compares each computed table3 data row (label + one 'No. (%)' string per arm)
-    against the workbook's own Table1_Summary sheet on matching label text.
-    Section-header rows (all-blank values) are skipped since Table1_Summary has no
-    values to compare there either. A consistency check only -- a mismatch means the
-    recomputed table and the workbook's own summary disagree and need a human to
-    reconcile, not that this recomputation is automatically the correct one."""
+   
     mismatches = []
     for row in computed_rows:
         label, *vals = row
@@ -535,15 +501,7 @@ def _cross_check_table3(computed_rows, arms, wb_lookup):
 
 
 def _build_ror_results_table(df, outdir, filename, normalize_reaction_display=True):
-    """Shared formatter for a full (all-reactions) ROR results table. Used for both
-    eTable1 (Primary_ROR, case-normalized before this stage) and eTable3, the
-    exact-case sensitivity table (ExactCase_Sensitivity, capitalization variants left
-    unmerged on purpose).
-
-    normalize_reaction_display=False is required for the exact-case table: its whole
-    point is to show "Alopecia" and "ALOPECIA" as distinct rows. Running them through
-    display_reaction() would title-case both to "Alopecia" and silently erase the
-    thing the table exists to demonstrate."""
+    
     df = df.copy().sort_values("Fisher p").reset_index(drop=True)
     reaction_col = (df["Reaction"].map(display_reaction) if normalize_reaction_display
                      else df["Reaction"].astype(str))
@@ -570,12 +528,7 @@ def build_etable1_full(primary_df, outdir):
 
 
 def build_etable3_exact_case_sensitivity(exact_case_df, outdir):
-    """Supplemental Table 2 (file: eTable3, after eTable1/eTable2 -- see note in
-    main()): the same primary-analysis ROR calculation, but with reaction-term
-    capitalization variants left unmerged (e.g. "Alopecia" and "ALOPECIA" as separate
-    rows) instead of case-normalized. Tests whether the conclusions depend on that
-    normalization choice; does not replace the planned product-level sensitivity
-    analyses (SA1-SA4)."""
+    
     return _build_ror_results_table(
         exact_case_df, outdir, "etable3_sensitivity_exact_case_capitalization",
         normalize_reaction_display=False,
@@ -611,16 +564,7 @@ _ARM_DISPLAY = {"Alkali": "Relaxer/alkali", "Keratin/blowout": "Keratin/blowout"
 
 
 def build_etable4_product_validation(report_level_qc_df, strict_excluded_df, outdir):
-    """Supplemental Table 3 (file: eTable4): per-report record of which product name
-    qualified a report for the strict-name (SA3) cohort, or -- for the reports SA3's
-    conservative rule dropped -- which candidate product was considered and why it
-    didn't qualify.
-
-    Built by joining Report_Level_QC (has the SA3 keep/drop decision, and for kept
-    reports the qualifying product) against Strict_Excluded_Reports (has the drop
-    reason for every excluded report) on Report number. Confirmed 1:1: every report
-    with "SA3 keep" == "No" in Report_Level_QC has exactly one matching row in
-    Strict_Excluded_Reports, and vice versa."""
+    
     reasons = strict_excluded_df.set_index("Report number")
 
     rows = []
@@ -657,14 +601,7 @@ def build_etable4_product_validation(report_level_qc_df, strict_excluded_df, out
 
 
 def _save_table(df, outdir, name, section_header_labels=None):
-    """section_header_labels: values of the first column that mark a section-divider
-    row (e.g. "Sex", "Age" in table3) rather than a data row. Those rows' 2nd/3rd+
-    columns are legitimately blank (there's no value to report), but left as plain
-    unstyled empty cells they're visually indistinguishable from an accidentally-empty
-    data row -- so they're bolded and shaded here to read as an intentional divider,
-    matching how a typeset "Table 1" usually marks these. CSV has no styling, so this
-    only affects the .xlsx; the .csv still has literally-empty cells there, which is
-    normal/expected for a flat text format."""
+   
     csv_path = os.path.join(outdir, f"{name}.csv")
     xlsx_path = os.path.join(outdir, f"{name}.xlsx")
     df.to_csv(csv_path, index=False)
@@ -780,16 +717,7 @@ def make_figure2(primary_df, outpath_base):
     ax.set_ylim(-0.7, n - 0.3)
     ax.set_xscale("log")
 
-    # Explicit xlim + ticks, replacing matplotlib's autoscale/default log formatter.
-    # Two problems this fixes together:
-    #   1. Autoscale alone left this axis spanning under one decade, which pushed
-    #      matplotlib into labeling every minor tick (2x,3x,...9x) in scientific
-    #      notation -- they overlapped into unreadable text (see PR notes).
-    #   2. The zero-cell arrowhead is drawn via ax.annotate(), whose endpoints are
-    #      NOT counted by matplotlib's autoscale. With autoscale alone, the
-    #      arrowhead could land outside the visible xlim and be silently clipped --
-    #      defeating the whole point of drawing it. Setting xlim explicitly with
-    #      margin past `floor` guarantees the arrow stays on-canvas.
+    
     xlim_left = floor * 0.55
     xlim_right = max(r["hi"] for r in rows) * 1.15
     ax.set_xlim(xlim_left, xlim_right)
@@ -829,7 +757,8 @@ def make_figure2(primary_df, outpath_base):
         Line2D([0], [0], color=INK_COLOR, marker="o", markerfacecolor=INK_COLOR,
                lw=1.3, markersize=6.5, label="Significant, Primary + all 4 sensitivity analyses"),
         Line2D([0], [0], color=INK_COLOR, marker="o", markerfacecolor="white",
-               markeredgewidth=1.4, lw=1.3, markersize=6.5, label="Significant, Primary analysis only"),
+               markeredgewidth=1.4, lw=1.3, markersize=6.5,
+               label="Significant, Primary analysis; not in all 4 sensitivity analyses"),
     ]
     fig.legend(handles=legend_elems, loc="center", bbox_to_anchor=(0.5, legend_y),
                fontsize=7.3, frameon=False, ncol=1)
@@ -935,23 +864,13 @@ def _rolling3(series):
 
 
 def _other_reactions_rolling_pct(reportlevel_df, years):
-    """Per-year raw % and 3-year rolling % of keratin/blowout reports mentioning each
-    of OTHER_ROBUST_KERATIN_REACTIONS. Shared by eFigure 2 Panel C and eTable5 (the
-    numeric table behind it) so the plotted lines and the tabulated numbers can never
-    drift apart. Both percentages here are already on a 0-100 scale (unlike the
-    alopecia percentages loaded straight from the workbook in make_efigure2_temporal,
-    which are 0-1 fractions until scaled there -- callers formatting these two sets of
-    numbers need different treatment; see build_etable5_temporal_numerical)."""
+    
     ker_rl = reportlevel_df[reportlevel_df["Arm"] == "Keratin/blowout"].copy()
     out = {}
     for reaction in OTHER_ROBUST_KERATIN_REACTIONS:
         grp = ker_rl.groupby("Year").agg(n=(reaction, "size"), pos=(reaction, "sum"))
         grp = grp.reindex(years, fill_value=0)
-        # Years with zero keratin/blowout reports get NaN here (0/0), not 0% -- a year
-        # with no reports at all is missing data, not evidence of no reaction. NaN is
-        # left in place going into the rolling mean, which correctly averages over
-        # whatever non-missing years fall in each 3-year window (verified: pandas
-        # .rolling().mean() skips NaN rather than propagating it).
+        
         pct = (grp["pos"] / grp["n"].replace(0, np.nan) * 100)
         out[reaction] = {"pct": pct.reset_index(drop=True), "pct_roll": _rolling3(pct).reset_index(drop=True)}
     return out
@@ -977,16 +896,7 @@ def make_efigure2_temporal(annual_df, reportlevel_df, outpath_base):
     ker_pct = annual_df["Keratin/blowout alopecia, %"].astype(float) * 100
     relax_roll = annual_df["3-y rolling relaxer/alkali alopecia, %"].astype(float) * 100
     ker_roll = annual_df["3-y rolling keratin/blowout alopecia, %"].astype(float) * 100
-    # Raw annual proportions are shown as unconnected points, not a connected line --
-    # with some years having only 1-3 reports, connecting them draws the eye to
-    # 0%-to-100% jumps that are sampling noise, not a trend. The rolling line (below)
-    # is the intended trend signal; the points are there for transparency about spread.
-    # rasterized=True: the EPS format has no way to represent alpha transparency at
-    # all -- matplotlib would otherwise silently render these points fully opaque in
-    # the .eps output only, so this panel would look different (darker, denser)
-    # there than in the .png/.pdf versions of the same figure. Rasterizing just
-    # these two artists embeds them as a high-res bitmap patch inside the still-
-    # vector EPS file, which preserves the intended translucent look everywhere.
+   
     ax.scatter(years, relax_pct, color=ARM_A_COLOR, alpha=0.35, s=10, zorder=2, rasterized=True)
     ax.scatter(years, ker_pct, color=ARM_B_COLOR, alpha=0.35, s=10, zorder=2, rasterized=True)
     ax.plot(years, relax_roll, color=ARM_A_COLOR, lw=1.8, label="Relaxer/alkali (3-y rolling)")
@@ -1093,7 +1003,8 @@ FDR-adjusted significance (q<.05) in the Primary analysis (alkali [relaxer/lye/p
 keratin/blowout products, restricted to reports coded to FDA cosmetics [industry code
 53]). Filled markers and bold labels indicate reactions significant in the Primary
 analysis and all 4 sensitivity analyses (SA1-SA4); open markers and regular labels
-indicate reactions significant in the Primary analysis only. The dashed vertical line
+indicate reactions significant in the Primary analysis but not in all 4 sensitivity
+analyses (see Figure 3). The dashed vertical line
 indicates ROR = 1 (no disproportionate reporting). For reactions with zero alkali-arm
 reports, the reporting odds ratio is not estimable; the 95% CI is shown extending toward
 zero, with no point estimate plotted.
@@ -1165,21 +1076,19 @@ consistent with Figure 2.
 # ----------------------------------------------------------------------------
 
 def main():
-    args = parse_args()
-    xlsx_path = args.xlsx_path
+    # Excel workbook path is hardcoded so the script can be run directly.
+    xlsx_path = HARD_CODED_XLSX_PATH
 
-    # Save outputs next to the Excel workbook by default. This avoids trying to
-    # create "pub_outputs" in the terminal's current directory (for example "/"),
-    # which is read-only on modern macOS. Pass output_dir explicitly to override.
-    outdir = args.output_dir or os.path.join(
-        os.path.dirname(os.path.abspath(xlsx_path)), "pub_outputs"
-    )
+    # Save outputs next to the Excel workbook. This avoids trying to create
+    # "pub_outputs" in the terminal's current directory (for example "/"),
+    # which is read-only on modern macOS.
+    outdir = os.path.join(os.path.dirname(xlsx_path), "pub_outputs")
 
     if not os.path.exists(xlsx_path):
         raise FileNotFoundError(
-            f"Could not find the Excel workbook at:\n{xlsx_path}\n\n"
-            "Check that the path and filename are exact (relative paths are "
-            "resolved from the current working directory)."
+            f"Could not find the Excel workbook at the hardcoded path:\n{xlsx_path}\n\n"
+            "Check that the folder/file name is exact. Note that your supplied path contains "
+            "a space immediately before the slash after 'Cosmetics_opeFDA_Analysis '."
         )
     fig_dir = os.path.join(outdir, "figures")
     tab_dir = os.path.join(outdir, "tables")
