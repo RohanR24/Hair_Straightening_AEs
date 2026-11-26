@@ -1,0 +1,2138 @@
+[
+ {
+  "report_number": "176493",
+  "outcomes": [
+   "Hospitalization",
+   "Visited Emergency Room"
+  ],
+  "date_created": "20140514",
+  "reactions": [
+   "HYPERSENSITIVITY",
+   "RASH",
+   "SKIN INFECTION",
+   "SKIN INJURY",
+   "SKIN IRRITATION"
+  ],
+  "date_started": "20131116",
+  "consumer": {
+   "age": "51.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SILK ELEMENTS MEGASILK OLIVE OIL RELAXER NO-LYE SENSITIVE SCALP RELAXER SYSTEM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "125880",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20100407",
+  "reactions": [
+   "ALOPECIA"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "JOHNSON PRODUCTS GENTLE TREATMENT HAIR PERM - REGULAR STRENGTH",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "66815",
+  "outcomes": [
+   "Required Intervention",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20040220",
+  "reactions": [
+   "HYPERSENSITIVITY"
+  ],
+  "date_started": "20040207",
+  "consumer": {
+   "age": "50.83",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "MATRIX OPTICURL PERM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2023-CFS-004028",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20230412",
+  "reactions": [
+   "CHEMICAL BURN",
+   "HEAVY MENSTRUAL BLEEDING",
+   "MUSCLE SPASMS",
+   "UTERINE LEIOMYOMA"
+  ],
+  "date_started": null,
+  "consumer": {},
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "DARK N LOVELY HAIR RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "HAIR RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "MAZAN HAIR RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "105436",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20080708",
+  "reactions": [
+   "ALOPECIA"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "ISOPLUS MULTI CONDITIONING RELAXER AND STYLING SYSTEM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "158474",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20121101",
+  "reactions": [
+   "CHEMICAL BURN OF SKIN",
+   "HYPOTRICHOSIS",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20120705",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "AFRICA'S BEST NO LYE RELAXER REGULAR",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "109224",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20070919",
+  "reactions": [
+   "HYPOTRICHOSIS",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20070902",
+  "consumer": {
+   "age": "6.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "AT ONE KIDS WITH NATURE KIDS HAIR RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "75059",
+  "outcomes": [
+   "Other Serious or Important Medical Event",
+   "Other Serious Outcome"
+  ],
+  "date_created": "20050104",
+  "reactions": [
+   "CHEMICAL BURN OF SKIN",
+   "EMOTIONAL DISTRESS",
+   "HAIR DISORDER"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "AURA PERM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2023-CFS-009044",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20230828",
+  "reactions": [
+   "ILLNESS"
+  ],
+  "date_started": null,
+  "consumer": {},
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "100% FREE GRANDMA'S LYE SOAP",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "CEREAL",
+    "industry_code": "05",
+    "industry_name": "Cereal Prep/Breakfast Food"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "FOOD PRODUCT",
+    "industry_code": "37",
+    "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "HERSHEY'S CHOCOLATE",
+    "industry_code": "34",
+    "industry_name": "Choc/Cocoa Prod"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "SNACKS",
+    "industry_code": "07",
+    "industry_name": "Snack Food Item"
+   }
+  ]
+ },
+ {
+  "report_number": "205237",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20161215",
+  "reactions": [
+   "TRICHORRHEXIS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "AFRICAN PRIDE RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "95083",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20070601",
+  "reactions": [
+   "TRICHORRHEXIS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "TCB NATURAL HAIR RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "105530",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20080111",
+  "reactions": [
+   "ALOPECIA",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20080108",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "LUSTRE PRODUCTS PINK SMOOTH HAIR RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "67614",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20040324",
+  "reactions": [
+   "ALOPECIA"
+  ],
+  "date_started": "20031013",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "HAWAIIAN SILK NO LYE RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2019-CFS-007852",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20190802",
+  "reactions": [
+   "DROOLING",
+   "VOMITING"
+  ],
+  "date_started": "20190717",
+  "consumer": {
+   "age": "1.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "ORS OLIVE OIL HAIR RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2023-CFS-012230",
+  "outcomes": [
+   "Hospitalization"
+  ],
+  "date_created": "20231107",
+  "reactions": [
+   "BLISTER",
+   "OVARIAN CANCER",
+   "RASH"
+  ],
+  "date_started": "20100927",
+  "consumer": {
+   "age": "50.60",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "HAIR RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2022-CFS-004288",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20220324",
+  "reactions": [
+   "HAIR TEXTURE ABNORMAL",
+   "LACERATION"
+  ],
+  "date_started": "20211227",
+  "consumer": {
+   "age": "62.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "PERM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Biotin",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Calcium",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Probiotic",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Vitamin D3",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Zinc",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "2018-CFS-014680",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20181217",
+  "reactions": [
+   "ERYTHEMA",
+   "SCAB",
+   "SKIN ULCER"
+  ],
+  "date_started": "20181212",
+  "consumer": {
+   "age": "38.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "PERM SOLUTION 1",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "PERM SOLUTION 2",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "210047",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20140207",
+  "reactions": [
+   "ADVERSE REACTION",
+   "ALOPECIA",
+   "BURNING SENSATION",
+   "HEADACHE",
+   "PRURITUS",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20140113",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "GENTLE TREATMENT NO LYE CREAM RELAXER SUPER FORMULA",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2023-CFS-012687",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20231113",
+  "reactions": [
+   "ALOPECIA",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "HAIR TEXTURIZER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Texturizer Softener No Lye System",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "98191",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20071113",
+  "reactions": [
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": "20071108",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "PRECISE NO LYE HAIR RELAXING",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "150365",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20120309",
+  "reactions": [
+   "ALOPECIA",
+   "BURNING SENSATION",
+   "CHEMICAL BURN OF SKIN",
+   "ERYTHEMA",
+   "HEADACHE",
+   "PRURITUS",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20120205",
+  "consumer": {
+   "age": "47.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SOFT AND BEAUTIFUL ULTIMATE PROTECTION NO LYE CREAM RELAXER SYSTEM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "105711",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20080423",
+  "reactions": [
+   "HAEMORRHAGE",
+   "HAIR COLOUR CHANGES",
+   "HAIR DISORDER",
+   "HYPERSENSITIVITY"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "REVLON REALISTIC PROFESSIONAL CONDITIONING CREME RELAXER - MILD (RED)",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "NEUTRALIZING SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "111264",
+  "outcomes": [
+   "Disability",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20090319",
+  "reactions": [
+   "ALOPECIA",
+   "DERMATITIS",
+   "HYPOTRICHOSIS",
+   "PRURITUS",
+   "SCAR",
+   "SKIN IRRITATION",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20090213",
+  "consumer": {
+   "age": "38.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SOFTSHEEN CARSON ULTRA PRECISE NO-LYE RELAXER SUPREME FORMULA",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "165093",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20130430",
+  "reactions": [
+   "CHEMICAL INJURY"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "REVLON RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "SOFT SHEEN-CARSON OPTIMUM CARE BANDIT HAIR RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "73675",
+  "outcomes": [
+   "Visited Emergency Room",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20041112",
+  "reactions": [
+   "BURNING SENSATION",
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": "20040708",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "MOTIONS NO LYE SENSITIVE SCALP HAIR RELAXER ACTIVATOR",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "MOTIONS NO LYE SENSITIVE SCALP HAIR RELAXER CREME",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "201226",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20160629",
+  "reactions": [
+   "ALOPECIA",
+   "HAIR DISORDER",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20160517",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "DARK AND LOVELY HEALTHY GLOSS 5, SHEA MOISTURE, NO-LYE, HAIR RELAXER KIT SUPER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "150418",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20120309",
+  "reactions": [
+   "ALOPECIA",
+   "CHEMICAL BURN OF SKIN",
+   "ERYTHEMA",
+   "HEADACHE",
+   "PRURITUS"
+  ],
+  "date_started": "20120205",
+  "consumer": {
+   "gender": "Male"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SOFT AND BEAUTIFUL ULTIMATE PROTECTION NO LYE CREAM RELAXER SYSTEM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "164100",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130401",
+  "reactions": [
+   "DYSPNOEA",
+   "EYE IRRITATION",
+   "EYE PRURITUS",
+   "PULMONARY CONGESTION",
+   "SNEEZING"
+  ],
+  "date_started": "20130328",
+  "consumer": {
+   "age": "67.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "ZOTOS FEELS SO LIVELY REGULAR PERM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "144609",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20111017",
+  "reactions": [
+   "ADVERSE REACTION",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "56.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "NICE & EASY COLOR BLEND FOAM BLACK",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "HAIR PERM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "107826",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20081112",
+  "reactions": [
+   "ALOPECIA"
+  ],
+  "date_started": "20081014",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "PRO-LINE INTERNATIONAL VOLUME PLUS RELAXER FOR FINE HAIR",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "197312",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20160613",
+  "reactions": [
+   "ALOPECIA",
+   "BURNING SENSATION",
+   "PARAESTHESIA"
+  ],
+  "date_started": "20131015",
+  "consumer": {
+   "age": "37.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "OPTIMUM AMLA LEGEND RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "66192",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20030811",
+  "reactions": [
+   "ADVERSE REACTION",
+   "ALOPECIA",
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": "20030124",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "AFRICAN PRIDE MIRACLE DEEP CONDITIONING NO-LYE RELAXER SYSTEM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "84576",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20060322",
+  "reactions": [
+   "ALOPECIA"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "48.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SOFT AND SHEEN DARK AND LOVELY HAIR RELAXER (REGULAR)",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "85831",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20060525",
+  "reactions": [
+   "HYPOTRICHOSIS",
+   "THERMAL BURN"
+  ],
+  "date_started": "20060506",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SOFT AND BEAUTIFUL BOTANICALS COLOR CODE NEUTRALIZING SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "SOFT AND BEAUTIFUL BOTANICALS LEAVE-IN CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "SOFT AND BEAUTIFUL BOTANICALS LIQUID ACTIVATOR REGULAR",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "SOFT AND BEAUTIFUL BOTANICALS NO-LYE CONDITIONING RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2023-CFS-071465",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20231220",
+  "reactions": [
+   "HAIR TEXTURE ABNORMAL"
+  ],
+  "date_started": "20230815",
+  "consumer": {
+   "age": "56.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "REVLON OPTIMUM RELAXER KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "MultiVitamin",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Vaseline Coco Butter",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2020-CFS-003729",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20200323",
+  "reactions": [
+   "ALOPECIA",
+   "HAIR TEXTURE ABNORMAL",
+   "HEADACHE",
+   "PRURITUS",
+   "SKIN IRRITATION"
+  ],
+  "date_started": "20200320",
+  "consumer": {
+   "age": "56.30",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "PROFECTIV RELAXER & REFRESH ANTI-DAMAGE NO LYE RELAXER PLUS COLOR ALL",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "172156",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20131120",
+  "reactions": [
+   "ALOPECIA",
+   "EXPIRED PRODUCT ADMINISTERED",
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": "20131111",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "TCB NO LYE NO MIX RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "NUETRALIZING SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "70377",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20040623",
+  "reactions": [
+   "ALOPECIA",
+   "BURNING SENSATION"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "TCB NO-LYE HAIR RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "102986",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20080424",
+  "reactions": [
+   "ADVERSE REACTION",
+   "BLISTER",
+   "BURNING SENSATION",
+   "BURNS SECOND DEGREE",
+   "CAUSTIC INJURY",
+   "HYPERAESTHESIA",
+   "INJURY",
+   "RASH",
+   "SCAB"
+  ],
+  "date_started": "20080418",
+  "consumer": {
+   "age": "14.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SOFT AND BEAUTIFUL JUST FOR ME CHILDREN'S COURSE HAIR RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "VASELINE",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "180545",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20141103",
+  "reactions": [
+   "HEADACHE",
+   "HYPERSENSITIVITY",
+   "HYPOTRICHOSIS",
+   "PAROSMIA",
+   "RASH PAPULAR",
+   "SKIN DISCOLOURATION"
+  ],
+  "date_started": "20140903",
+  "consumer": {
+   "age": "79.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "ISO BRAND OPTION 1 PERM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2020-CFS-011010",
+  "outcomes": [
+   "Other Serious or Important Medical Event",
+   "Other Serious Outcome"
+  ],
+  "date_created": "20200812",
+  "reactions": [
+   "ALOPECIA",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "ORS OLIVE BUILT IN PROTECTION FULL APPLICATION NO LYE HAIR RELAXER EXTRA STRENGTH",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Olive Oil Built In Protection Full Application No-Lye Hair Relaxer, Extra Strength",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "211756",
+  "outcomes": [
+   "Other Serious or Important Medical Event",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20170503",
+  "reactions": [
+   "ALOPECIA",
+   "FURUNCLE",
+   "HEADACHE",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20160912",
+  "consumer": {
+   "age": "47.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "AFRICA'S BEST HERBAL INTENSIVE DUAL CONDITIONING NO-LYE RELAYER SYSTEM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "CALCIUM",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "FISH OIL",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "MULTI VITAMINS",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "VITAMIN B",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "VITAMIN C",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "129059",
+  "outcomes": [
+   "Other Serious or Important Medical Event",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20100813",
+  "reactions": [
+   "ALOPECIA",
+   "HYPOTRICHOSIS",
+   "SKIN BURNING SENSATION"
+  ],
+  "date_started": "20100118",
+  "consumer": {
+   "age": "38.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "MIZANI RELAXER BUTTER BLEND SENSITIVE SCALP",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "74284",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20041208",
+  "reactions": [
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": "20041116",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "ULTRA SHEEN PRECISE NO LYE CONDITIONING RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "74283",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20041208",
+  "reactions": [
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": "20041112",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "ULTRA SHEEN PRECISE NO LYE CONDITIONING RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "67331",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20040224",
+  "reactions": [
+   "HYPOTRICHOSIS",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20040127",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "J STRICKLAND AFRICAN GOLD NO-LYE CONDITIONING RELAXER KIT NEUTRALIZING SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "J STRICKLAND AFRICAN GOLD NO-LYE CONDITIONING RELAXER KIT NO-LYE LIQUID ACTIVATOR",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "J STRICKLAND AFRICAN GOLD NO-LYE CONDITIONING RELAXER KIT RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "178430",
+  "outcomes": [
+   "Other Serious or Important Medical Event",
+   "Other Serious Outcome"
+  ],
+  "date_created": "20140807",
+  "reactions": [
+   "ALOPECIA",
+   "SKIN BURNING SENSATION"
+  ],
+  "date_started": "20140806",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "PARNEVU TEA TREE RELAXER RELAXER KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "178152",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140728",
+  "reactions": [
+   "HYPOTRICHOSIS",
+   "INJURY"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "36.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SOFTSHEEN CARSON OPTIMUM AMLA LEGEND RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "174666",
+  "outcomes": [
+   "Visited Emergency Room"
+  ],
+  "date_created": "20140306",
+  "reactions": [
+   "BURNING SENSATION",
+   "CHEMICAL INJURY"
+  ],
+  "date_started": "20140228",
+  "consumer": {
+   "age": "19.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "OPTIMUM SALONCARE CONDITIONING RELAXER SUPER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2020-CFS-009360",
+  "outcomes": [
+   "Visited Emergency Room"
+  ],
+  "date_created": "20190624",
+  "reactions": [
+   "BURNING SENSATION",
+   "CHEMICAL INJURY",
+   "PAIN",
+   "PARAESTHESIA"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "GENTLETREATMENT NO-LYE CONDITIONING CREME RELAXER SYSTEM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "GRAY OUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "LEAVE-IN CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "NEUTRALIZING SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "NO-LYE CONDITIONING CREME RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "SETTING STYLING LOTION",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "75051",
+  "outcomes": [
+   "Other Serious or Important Medical Event",
+   "Visited Emergency Room",
+   "Visited a Health Care Provider",
+   "Other Serious Outcome"
+  ],
+  "date_created": "20050104",
+  "reactions": [
+   "ALOPECIA",
+   "BURNS SECOND DEGREE",
+   "CAUSTIC INJURY",
+   "CHEMICAL BURN OF SKIN",
+   "EMERGENCY CARE EXAMINATION"
+  ],
+  "date_started": "20041229",
+  "consumer": {
+   "age": "41.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "REVLON REALISTIC SUPER NO LYE RELAXER SYSTEM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2017-CFS-000912",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20171011",
+  "reactions": [
+   "ALOPECIA",
+   "BURNING SENSATION"
+  ],
+  "date_started": "20160314",
+  "consumer": {
+   "age": "43.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "ORGANICS RELAXER KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "81803",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20051030",
+  "reactions": [
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "PRECISE HAIR PERM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "108244",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20081203",
+  "reactions": [
+   "HEADACHE"
+  ],
+  "date_started": "20081025",
+  "consumer": {
+   "age": "21.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "PM CHEMICAL HAIR RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "87451",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20060808",
+  "reactions": [
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20051007",
+  "consumer": {
+   "age": "51.48",
+   "age_unit": "year(s)",
+   "gender": "Male"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "CLINTEX HAIR RELAXER FOR MEN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "121107",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20090824",
+  "reactions": [
+   "ALOPECIA"
+  ],
+  "date_started": "20081223",
+  "consumer": {
+   "age": "60.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "MOTIONS CLASSIC HAIR RELAXER REGULAR FORMULA FOR MEDIUM TEXTURES",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2022-CFS-009146",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20220601",
+  "reactions": [
+   "ALOPECIA"
+  ],
+  "date_started": "20220601",
+  "consumer": {
+   "age": "33.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "DR. MIRACLES NO LYE RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "88156",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20060915",
+  "reactions": [
+   "PRURITUS",
+   "RASH PAPULAR",
+   "RASH SCALY",
+   "SCAR",
+   "SWELLING"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "43.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "PREMIER PIGMENTS PERM MAKE-UP TATTOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "208701",
+  "outcomes": [
+   "Visited Emergency Room",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20170210",
+  "reactions": [
+   "ADVERSE REACTION",
+   "ALOPECIA",
+   "BURNING SENSATION",
+   "CHEMICAL INJURY",
+   "HYPERSENSITIVITY",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20170208",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KIDS ORGANICS BY AFRICA'S BEST ORGANIC CONDITIONING RELAXER SYSTEM WITH SCALPGUARD",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "109220",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20080115",
+  "reactions": [
+   "ALOPECIA",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20080105",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "LARAN PROFESSIONAL STRENGTH RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "69158",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20040513",
+  "reactions": [
+   "ALOPECIA",
+   "HYPOAESTHESIA"
+  ],
+  "date_started": "20040422",
+  "consumer": {
+   "age": "53.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "REVLON CREME OF NATURE HAIR RELAXER (NO LYE RELAXER)",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2017-CFS-001862",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20171016",
+  "reactions": [
+   "CHEMICAL INJURY"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "56.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "HAIR STRAIGHTENER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Olive Miracle Hair Relaxer",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "166534",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20080722",
+  "reactions": [
+   "SKIN BURNING SENSATION"
+  ],
+  "date_started": "20080718",
+  "consumer": {},
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "CREME OF NATURE NO LYE PERM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2017-CFS-001803",
+  "outcomes": [
+   "Hospitalization"
+  ],
+  "date_created": "20171114",
+  "reactions": [
+   "ALOPECIA",
+   "BLISTER",
+   "BURNING SENSATION"
+  ],
+  "date_started": "20171009",
+  "consumer": {
+   "age": "49.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "PROFECTIV MEGAGROWTH RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "69241",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20040526",
+  "reactions": [
+   "HAIR DISORDER",
+   "HAIR TEXTURE ABNORMAL",
+   "SKIN BURNING SENSATION"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "AFRICAN PRIDE NO-LYE RELAXER SYSTEM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "200340",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20160817",
+  "reactions": [
+   "ALOPECIA"
+  ],
+  "date_started": "20160511",
+  "consumer": {
+   "age": "51.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "MIZANI SENSITIVE RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "77630",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20050419",
+  "reactions": [
+   "CAUSTIC INJURY",
+   "SKIN BURNING SENSATION",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SOFT AND BEAUTIFUL BOTANICALS NO-LYE SENSITIVE SCALP RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "133794",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20101123",
+  "reactions": [
+   "BURNING SENSATION",
+   "HYPOTRICHOSIS",
+   "SKIN DISORDER"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "REVLON PROFESSIONAL REALISTIC CONDITIONING CREAM RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "79437",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20050701",
+  "reactions": [
+   "ALOPECIA",
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": "20050629",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "AFRICA'S BEST NO LYE RELAXER SYSTEM REGULAR STRENGTH",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2018-CFS-001921",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20180201",
+  "reactions": [
+   "ALOPECIA",
+   "BLISTER",
+   "CHEMICAL INJURY",
+   "HAIR TEXTURE ABNORMAL",
+   "INFLAMMATION",
+   "SCAR"
+  ],
+  "date_started": "20170124",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "LUSTRASILK SIMPLY STRAIGHT PERM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "B12",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Multi-Vitamin",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Vitamin C",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "2020-CFS-008637",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20200905",
+  "reactions": [
+   "ALOPECIA"
+  ],
+  "date_started": "20200902",
+  "consumer": {
+   "age": "33.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "OLIVE MIRACLE DEEP CONDITIONING NO LYE RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "87322",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20060728",
+  "reactions": [
+   "ALOPECIA",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "29.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "TCB HAIR PERMANENT RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "188627",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20141223",
+  "reactions": [
+   "ALOPECIA",
+   "BURNING SENSATION",
+   "HEADACHE",
+   "SKIN REACTION",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20141223",
+  "consumer": {
+   "age": "47.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "ULTRA SHEEN SUPREME NO LYE RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "169123",
+  "outcomes": [
+   "Visited Emergency Room"
+  ],
+  "date_created": "20130814",
+  "reactions": [
+   "BURNING SENSATION",
+   "CAUSTIC INJURY",
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": "20130804",
+  "consumer": {
+   "age": "58.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SOFT SHEEN OPTIMUM CARE HAIR RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "80976",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20050925",
+  "reactions": [
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": "20050925",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SOFT SHEEN-CARSON OPTIMUM CARE ANTI-BREAKAGE RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "120110",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20090115",
+  "reactions": [
+   "ALOPECIA"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "DR. MIRACLE'S FEEL IT FORMULA THERMALCEUTICAL INTENSIVE NO-LYE RELAXER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ }
+]

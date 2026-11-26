@@ -1,0 +1,8274 @@
+[
+ {
+  "report_number": "151849",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120501",
+  "reactions": [
+   "SKIN BURNING SENSATION",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20120430",
+  "consumer": {
+   "age": "41.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE KERATIN INFUSION 30 DAY SMOOTHING KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "187503",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20150630",
+  "reactions": [
+   "DERMATITIS CONTACT",
+   "DISCOMFORT",
+   "ERYTHEMA"
+  ],
+  "date_started": "20150302",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "GK HAIR KERATIN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "135445",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20101021",
+  "reactions": [
+   "ASTHMA",
+   "DIZZINESS",
+   "DYSPNOEA",
+   "EYE IRRITATION",
+   "LETHARGY",
+   "MUCOUS MEMBRANE DISORDER",
+   "SKIN IRRITATION"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "32.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "146657",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20111212",
+  "reactions": [
+   "TRICHORRHEXIS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERA HAIR KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "132391",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20101117",
+  "reactions": [
+   "DYSGEUSIA",
+   "EYE IRRITATION"
+  ],
+  "date_started": "20101014",
+  "consumer": {
+   "age": "46.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "150977",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120409",
+  "reactions": [
+   "HAIR DISORDER",
+   "LYMPHADENOPATHY",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20120306",
+  "consumer": {
+   "age": "47.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE KERATIN INFUSION (UNILEVER)",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "173450",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20140127",
+  "reactions": [
+   "BURNING SENSATION",
+   "RASH",
+   "URTICARIA"
+  ],
+  "date_started": "20140115",
+  "consumer": {
+   "age": "30.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "143746",
+  "outcomes": [
+   "Required Intervention"
+  ],
+  "date_created": "20110921",
+  "reactions": [
+   "CHEST DISCOMFORT",
+   "EPISTAXIS",
+   "LACRIMATION INCREASED",
+   "MALAISE",
+   "RHINORRHOEA"
+  ],
+  "date_started": "20110901",
+  "consumer": {
+   "age": "24.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT HAIR SMOOTHING",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2021-CFS-006493",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20210708",
+  "reactions": [
+   "ALOPECIA",
+   "HAEMORRHAGE",
+   "SKIN ULCER"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "28.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "OGX EVER STRAIGHTENING BRAZILIAN KERATIN THERAPY",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "136122",
+  "outcomes": [
+   "Required Intervention",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20110210",
+  "reactions": [
+   "AUTOIMMUNE DISORDER",
+   "DEAFNESS",
+   "DYSPNOEA",
+   "EYE IRRITATION",
+   "HEARING IMPAIRED"
+  ],
+  "date_started": "20100928",
+  "consumer": {
+   "age": "59.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "PETER COPPOLA KERATIN COMPLEX",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "131499",
+  "outcomes": [
+   "Other Serious or Important Medical Event",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20101022",
+  "reactions": [
+   "CORNEAL ABRASION",
+   "EYE IRRITATION",
+   "NASAL DISCOMFORT",
+   "RHINORRHOEA",
+   "THROAT IRRITATION"
+  ],
+  "date_started": "20100721",
+  "consumer": {
+   "age": "54.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "165069",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20130426",
+  "reactions": [
+   "BLISTER",
+   "HYPERSENSITIVITY",
+   "PRURITUS",
+   "RASH"
+  ],
+  "date_started": "20130419",
+  "consumer": {
+   "age": "28.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "AMAZON KERATIN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2018-CFS-010452",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20180820",
+  "reactions": [
+   "ALOPECIA",
+   "BURNING SENSATION",
+   "EXCORIATION",
+   "PRURITUS"
+  ],
+  "date_started": "20180818",
+  "consumer": {
+   "age": "31.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE PROFESSIONALS KERATIN INFUSION CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE PROFESSIONALS KERATIN INFUSION SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "136395",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20101130",
+  "reactions": [
+   "EYE IRRITATION",
+   "NASAL DISCOMFORT",
+   "PRURITUS",
+   "SKIN IRRITATION"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "64.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN KERATIN COMPLEX SMOOTHING KERATIN HAIR STRAIGHTENER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "160046",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20121010",
+  "reactions": [
+   "ERYTHEMA",
+   "HYPOTRICHOSIS",
+   "PAIN"
+  ],
+  "date_started": "20120731",
+  "consumer": {
+   "age": "34.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "VIVID HAIR 200 STRANDS STRAIGHT PRE BONDED U NAIL TIP FUSION REMY HUMAN HAIR EXTENSIONS 22",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "BRAZILIAN BLOWOUT CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "BRAZILIAN BLOWOUT SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "131006",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20101013",
+  "reactions": [
+   "BURNING SENSATION",
+   "DYSPNOEA",
+   "LACRIMATION INCREASED"
+  ],
+  "date_started": "20100901",
+  "consumer": {
+   "age": "21.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT SOLUTION",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "142159",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20110718",
+  "reactions": [
+   "BURNING SENSATION",
+   "HEADACHE"
+  ],
+  "date_started": "20110713",
+  "consumer": {
+   "age": "42.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "106794",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20080930",
+  "reactions": [
+   "EYELID DISORDER"
+  ],
+  "date_started": "20080918",
+  "consumer": {
+   "age": "44.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "PRAVANA KERATIN FUSION TEXTURE CONTROL",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "151424",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120418",
+  "reactions": [
+   "HAIR DISORDER",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20120408",
+  "consumer": {
+   "age": "27.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE KERATIN STRAIGHTENING TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "178816",
+  "outcomes": [
+   "Disability"
+  ],
+  "date_created": "20140822",
+  "reactions": [
+   "DYSPNOEA",
+   "EYE IRRITATION",
+   "HEADACHE",
+   "NASAL DISCOMFORT",
+   "SLUGGISHNESS",
+   "THROAT IRRITATION"
+  ],
+  "date_started": "20140820",
+  "consumer": {
+   "age": "39.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "199772",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20160801",
+  "reactions": [
+   "ALOPECIA",
+   "SECRETION DISCHARGE",
+   "TRICHORRHEXIS",
+   "WOUND"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "151052",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120410",
+  "reactions": [
+   "INFLUENZA LIKE ILLNESS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SAUVE KERATIN INFUSION 30 DAY SMOOTHING KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "207103",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170201",
+  "reactions": [
+   "URTICARIA"
+  ],
+  "date_started": "20170201",
+  "consumer": {
+   "age": "28.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "157968",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20121022",
+  "reactions": [
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": "20121018",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE KERATIN INFUSION",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "137039",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20110321",
+  "reactions": [
+   "CHEST DISCOMFORT",
+   "EYE IRRITATION",
+   "HEADACHE"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "40.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT ORIGINAL",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "141402",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20101018",
+  "reactions": [
+   "CHEST DISCOMFORT",
+   "DIPLOPIA",
+   "DIZZINESS",
+   "EYE IRRITATION",
+   "HEADACHE",
+   "HEART RATE INCREASED",
+   "NAUSEA",
+   "PHARYNGITIS",
+   "VISUAL IMPAIRMENT"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "45.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN COMPLEX SMOOTHING THERAPY",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "139744",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20110526",
+  "reactions": [
+   "LOCAL SWELLING",
+   "URTICARIA"
+  ],
+  "date_started": "20110504",
+  "consumer": {
+   "age": "30.24",
+   "age_unit": "year(s)",
+   "gender": "Male"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT HAIR TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "152378",
+  "outcomes": [
+   "Life Threatening",
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20120514",
+  "reactions": [
+   "DYSPNOEA",
+   "LACRIMATION INCREASED",
+   "PRURITUS"
+  ],
+  "date_started": "20120512",
+  "consumer": {
+   "age": "25.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2020-CFS-009364",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20200925",
+  "reactions": [
+   "ALOPECIA"
+  ],
+  "date_started": "20200810",
+  "consumer": {
+   "age": "28.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "B12",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Hair Vitamins",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Vitamin E",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Vitamins",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Zinc",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "2021-CFS-009639",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20210920",
+  "reactions": [
+   "BURNING SENSATION",
+   "CHEST PAIN",
+   "NAUSEA"
+  ],
+  "date_started": "20210917",
+  "consumer": {
+   "age": "36.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "LA BRASILIANA KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2021-CFS-004033",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20210505",
+  "reactions": [
+   "DYSPHAGIA",
+   "ERYTHEMA",
+   "PAIN",
+   "PRURITUS",
+   "PYREXIA",
+   "SWELLING",
+   "SWELLING FACE"
+  ],
+  "date_started": "20210429",
+  "consumer": {
+   "age": "66.60",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SEPHORA AMIKA BOMBSHELL BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "209436",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170323",
+  "reactions": [
+   "APHASIA",
+   "BURNING SENSATION",
+   "CONFUSIONAL STATE",
+   "DIZZINESS",
+   "DRY SKIN",
+   "DRY THROAT",
+   "EYE IRRITATION",
+   "GAIT DISTURBANCE",
+   "HEART RATE INCREASED",
+   "NASAL DRYNESS",
+   "NAUSEA",
+   "PALPITATIONS",
+   "SYNCOPE",
+   "THROAT IRRITATION"
+  ],
+  "date_started": "20170322",
+  "consumer": {
+   "age": "43.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "DAILY GUMMY VITAMINS",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "2020-CFS-002247",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20200218",
+  "reactions": [
+   "ALOPECIA",
+   "HAIR TEXTURE ABNORMAL",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20191002",
+  "consumer": {
+   "age": "53.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "DEVACURL NO-POO DECADENCE SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "DEVACURL ONE CONDITION DECADENCE CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Biotin",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Keratin",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "132870",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20101102",
+  "reactions": [
+   "EYE IRRITATION",
+   "HEADACHE",
+   "PAIN"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Male"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT HAIR STRAIGHTENER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "179271",
+  "outcomes": [
+   "Disability",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20140911",
+  "reactions": [
+   "ECZEMA",
+   "RASH",
+   "RASH PRURITIC"
+  ],
+  "date_started": "20140815",
+  "consumer": {
+   "age": "29.00",
+   "age_unit": "year(s)"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "163621",
+  "outcomes": [
+   "Life Threatening",
+   "Hospitalization",
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130319",
+  "reactions": [
+   "LUNG NEOPLASM MALIGNANT"
+  ],
+  "date_started": "20130308",
+  "consumer": {},
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN COMPLEX SMOOTHING TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "138413",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20110429",
+  "reactions": [
+   "EYE IRRITATION",
+   "HEADACHE",
+   "PHARYNGITIS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "ROYAL KERATIN BRAZILIAN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "136348",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20110228",
+  "reactions": [
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": "20100817",
+  "consumer": {
+   "age": "20.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2018-CFS-010673",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20180823",
+  "reactions": [
+   "DIZZINESS",
+   "EYE IRRITATION",
+   "FATIGUE",
+   "HEADACHE",
+   "NASAL DISCOMFORT",
+   "THROAT IRRITATION"
+  ],
+  "date_started": "20180821",
+  "consumer": {
+   "age": "37.80",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "136605",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20110301",
+  "reactions": [
+   "COUGH",
+   "DIZZINESS",
+   "DYSPNOEA",
+   "EYE IRRITATION",
+   "HEADACHE",
+   "VISION BLURRED"
+  ],
+  "date_started": "20101101",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT BRAZILIAN BLOWOUT KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2023-CFS-004878",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20230511",
+  "reactions": [
+   "SKIN IRRITATION"
+  ],
+  "date_started": "20230510",
+  "consumer": {
+   "age": "39.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "PROGRESSIVE KERATIN BRAZILIAN KERATIN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2018-CFS-013412",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20181111",
+  "reactions": [
+   "DYSPNOEA",
+   "HAEMATEMESIS",
+   "HEADACHE",
+   "MALAISE"
+  ],
+  "date_started": "20181105",
+  "consumer": {
+   "age": "31.50",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "159746",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20121205",
+  "reactions": [
+   "CHEST PAIN",
+   "COUGH",
+   "DYSPNOEA",
+   "OROPHARYNGEAL PAIN",
+   "WHEEZING"
+  ],
+  "date_started": "20121201",
+  "consumer": {
+   "age": "51.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "134420",
+  "outcomes": [
+   "Hospitalization",
+   "Visited Emergency Room"
+  ],
+  "date_created": "20110111",
+  "reactions": [
+   "ABDOMINAL DISCOMFORT",
+   "CHEST PAIN",
+   "COUGH",
+   "NASOPHARYNGITIS",
+   "NAUSEA",
+   "PNEUMONIA",
+   "VOMITING",
+   "WHEEZING"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "53.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT TREATMENT + SHAMPOO, CONDITIONER, SERUM AND MASQUE",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "133684",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20101214",
+  "reactions": [
+   "ALOPECIA",
+   "DRY SKIN",
+   "HAIR DISORDER",
+   "HYPOTRICHOSIS",
+   "PRURITUS",
+   "THERMAL BURN"
+  ],
+  "date_started": "20100701",
+  "consumer": {
+   "age": "48.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN EXPRESS",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "170285",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130918",
+  "reactions": [
+   "ALOPECIA",
+   "HYPOTRICHOSIS",
+   "PRURITUS",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20100723",
+  "consumer": {
+   "age": "45.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "PRAVANA SMOOTHING SYSTEM - KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "BIOTIN",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "IRON SUPPLEMENTS",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "MULTIVITAMINS",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "VIVISCAL",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "183072",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20150218",
+  "reactions": [
+   "BURNING SENSATION",
+   "CHEMICAL INJURY",
+   "ERYTHEMA",
+   "HEADACHE",
+   "SINUS HEADACHE",
+   "SLEEP DISORDER"
+  ],
+  "date_started": "20150211",
+  "consumer": {
+   "age": "49.00",
+   "age_unit": "year(s)"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "ORIGINAL KERATIN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "CALCIUM",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "FISH OIL",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "GREEN VIBRANCE",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "VITAMIN D",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "2018-CFS-010488",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20180809",
+  "reactions": [
+   "BODY TEMPERATURE INCREASED",
+   "COUGH",
+   "DIZZINESS",
+   "EYE IRRITATION",
+   "HEADACHE",
+   "RHINORRHOEA"
+  ],
+  "date_started": "20180804",
+  "consumer": {
+   "age": "14.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT HAIR TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "156082",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20120831",
+  "reactions": [
+   "HYPERSENSITIVITY",
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "41.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE PROFESSIONAL KERATIN INFUSION COLOR CARE SHAMPOO & CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "181880",
+  "outcomes": [
+   "Disability"
+  ],
+  "date_created": "20150109",
+  "reactions": [
+   "COUGH",
+   "DYSPNOEA"
+  ],
+  "date_started": "20150107",
+  "consumer": {
+   "age": "29.31",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN TREATMENT REJUVENOL",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2021-CFS-006491",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20210708",
+  "reactions": [
+   "ALOPECIA",
+   "HAIR TEXTURE ABNORMAL"
+  ],
+  "date_started": "20201001",
+  "consumer": {
+   "age": "28.00",
+   "age_unit": "year(s)",
+   "gender": "Male"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "OGX EVER STRAIGHT BRAZILIAN KERATIN THERAPY SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "176203",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20140501",
+  "reactions": [
+   "ALOPECIA",
+   "FEAR",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20140416",
+  "consumer": {
+   "age": "34.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "UNILEVER SUAVE KERATIN INFUSION HEAT DEFENSE LEAVE IN CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "UNILEVER SUAVE SHAMPOO NATURAL INFUSION WITH AWAPUHI, GINGER, AND HONEYSUCKLE",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "144084",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20111003",
+  "reactions": [
+   "ABORTION SPONTANEOUS",
+   "FATIGUE",
+   "HYPOTRICHOSIS",
+   "LYMPHADENOPATHY",
+   "MEMORY IMPAIRMENT",
+   "THYROID CANCER"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA BRAZILIAN KERATIN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2020-CFS-011232",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20180916",
+  "reactions": [
+   "ALOPECIA",
+   "HAIR TEXTURE ABNORMAL"
+  ],
+  "date_started": null,
+  "consumer": {},
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "EQUATE BEAUTY SMOOTHING KERATIN CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "EQUATE BEAUTY SMOOTHING KERATIN SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Equate, Beauty, Smoothing Keratin Shampoo, Salon Quality",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Smoothing Keratin Conditioner, Salon Quality",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2019-CFS-005218",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20190524",
+  "reactions": [
+   "BLISTER",
+   "PAIN",
+   "PRURITUS",
+   "URTICARIA"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "60.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Probiotic",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Vitamin D",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Vitamin b complex",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "154478",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120420",
+  "reactions": [
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20120328",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE PROFESSIONALS KERATIN INFUSION 30 DAY SMOOTHING KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "140614",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20110627",
+  "reactions": [
+   "BURNING SENSATION",
+   "EYE IRRITATION",
+   "NAUSEA",
+   "PHARYNGITIS",
+   "VOMITING"
+  ],
+  "date_started": "20110615",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "PURE NV BKT BOTANICAL KERATIN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "169515",
+  "outcomes": [
+   "Other Serious or Important Medical Event",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20130828",
+  "reactions": [
+   "BURNING SENSATION",
+   "DYSPNOEA",
+   "EYE IRRITATION",
+   "NASAL DISCOMFORT",
+   "SKIN BURNING SENSATION",
+   "THROAT IRRITATION"
+  ],
+  "date_started": "20130815",
+  "consumer": {
+   "age": "42.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "141531",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20110525",
+  "reactions": [
+   "ALOPECIA",
+   "PARAESTHESIA"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "LIQUID KERATIN STARTER KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "142165",
+  "outcomes": [
+   "Life Threatening",
+   "Hospitalization",
+   "Other Serious or Important Medical Event",
+   "Visited Emergency Room",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20110706",
+  "reactions": [
+   "DYSPNOEA",
+   "EYE IRRITATION",
+   "HYPERSENSITIVITY",
+   "RASH",
+   "RHINORRHOEA",
+   "URTICARIA"
+  ],
+  "date_started": "20110622",
+  "consumer": {
+   "age": "34.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN EXPRESS TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "154456",
+  "outcomes": [
+   "Required Intervention"
+  ],
+  "date_created": "20120713",
+  "reactions": [
+   "ALOPECIA",
+   "HYPOTRICHOSIS",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20111029",
+  "consumer": {
+   "age": "43.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN HAIR STRAIGHTENING",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2018-CFS-010288",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20180812",
+  "reactions": [
+   "BRONCHOSPASM",
+   "DYSPHAGIA",
+   "HEADACHE",
+   "LACRIMATION INCREASED",
+   "NASAL DISCOMFORT",
+   "OCULAR HYPERAEMIA",
+   "PRURITUS"
+  ],
+  "date_started": "20180811",
+  "consumer": {
+   "age": "26.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "ACAI PROFESSIONAL BRAZILIAN BLOWOUT SOLUTION",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "177161",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20130917",
+  "reactions": [
+   "DIARRHOEA",
+   "DISORIENTATION",
+   "DIZZINESS",
+   "EYE IRRITATION",
+   "NAUSEA",
+   "TREMOR",
+   "URTICARIA",
+   "VOMITING"
+  ],
+  "date_started": "20130916",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN COMPLEX SMOOTHING THERAPY",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "149073",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120215",
+  "reactions": [
+   "HYPERSENSITIVITY",
+   "PNEUMONIA"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "31.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT HAIR STRAIGHTENING SMOOTHING PRODUCT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2022-CFS-012336",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20220809",
+  "reactions": [
+   "DYSPNOEA",
+   "HEADACHE",
+   "PULMONARY PAIN"
+  ],
+  "date_started": "20220809",
+  "consumer": {},
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "PIER JOULIET KERATIN CREAM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "150320",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120229",
+  "reactions": [
+   "ALOPECIA",
+   "PRODUCT COMPLAINT",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20120215",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN HAIR TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "132284",
+  "outcomes": [
+   "Required Intervention"
+  ],
+  "date_created": "20101110",
+  "reactions": [
+   "HEADACHE",
+   "LACRIMATION INCREASED",
+   "NAUSEA",
+   "SYNCOPE"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "29.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT ACAI ANTI-FRIZZ CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT ACAI ANTI-FRIZZ SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "198069",
+  "outcomes": [
+   "Disability",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20160705",
+  "reactions": [
+   "ABDOMINAL DISCOMFORT",
+   "ASTHMA",
+   "DIARRHOEA",
+   "DYSPNOEA",
+   "PULMONARY FUNCTION CHALLENGE TEST ABNORMAL"
+  ],
+  "date_started": "20160620",
+  "consumer": {
+   "age": "44.34",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "GIB BRAZILIAN BLOWOUT ACAI ANTI FRIZ CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "GIB BRAZILIAN BLOWOUT ACAI ANTI FRIZ SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "152941",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20101028",
+  "reactions": [
+   "ANXIETY",
+   "DYSPNOEA",
+   "FATIGUE",
+   "HEADACHE",
+   "MALAISE",
+   "NAUSEA",
+   "RESPIRATORY DISTRESS"
+  ],
+  "date_started": "20100911",
+  "consumer": {
+   "age": "31.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT HAIR CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "150454",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120327",
+  "reactions": [
+   "HYPERSENSITIVITY",
+   "HYPOAESTHESIA",
+   "SKIN REACTION"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN EXPRESS TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "148980",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120215",
+  "reactions": [
+   "ADVERSE REACTION",
+   "DYSPNOEA",
+   "EYE IRRITATION"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "30.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT HAIR STRAIGHTENING SMOOTHING PRODUCT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2021-CFS-006474",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20210708",
+  "reactions": [
+   "ALOPECIA",
+   "SKIN IRRITATION"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "30.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "OGX ANTI-BREAKAGE KERATIN OIL CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "173463",
+  "outcomes": [
+   "Life Threatening"
+  ],
+  "date_created": "20131224",
+  "reactions": [
+   "CHEST PAIN",
+   "COUGH",
+   "DYSPHONIA",
+   "INCREASED BRONCHIAL SECRETION"
+  ],
+  "date_started": null,
+  "consumer": {},
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "PETER COPPOLA KERATIN SMOOTHING TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "142695",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20110823",
+  "reactions": [
+   "DEPRESSION",
+   "HEADACHE",
+   "HYPOTRICHOSIS",
+   "PALPITATIONS",
+   "PHARYNGITIS"
+  ],
+  "date_started": "20110628",
+  "consumer": {
+   "age": "31.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN COMPLEX",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "136515",
+  "outcomes": [
+   "Visited Emergency Room",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20110309",
+  "reactions": [
+   "BLOOD PRESSURE INCREASED",
+   "DIZZINESS",
+   "HEADACHE",
+   "HEART RATE INCREASED",
+   "PALPITATIONS"
+  ],
+  "date_started": "20110205",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2020-CFS-012505",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20201202",
+  "reactions": [
+   "DIZZINESS",
+   "HEADACHE",
+   "LOSS OF CONSCIOUSNESS",
+   "NAUSEA",
+   "PAIN",
+   "VITREOUS FLOATERS"
+  ],
+  "date_started": "20201201",
+  "consumer": {
+   "age": "36.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2018-CFS-010706",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20180824",
+  "reactions": [
+   "ASTHMA",
+   "HYPERSENSITIVITY"
+  ],
+  "date_started": "20180822",
+  "consumer": {
+   "age": "33.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "REGIS ENCHANTED MIDNIGHT LEAVE IN WITH KERATIN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "143898",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20110428",
+  "reactions": [
+   "ALOPECIA",
+   "BURNING SENSATION",
+   "CHEMICAL BURN OF SKIN"
+  ],
+  "date_started": "20100616",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOU BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "137963",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20110418",
+  "reactions": [
+   "HYPOTRICHOSIS",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "132289",
+  "outcomes": [
+   "Other Serious or Important Medical Event",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20101117",
+  "reactions": [
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": "20100701",
+  "consumer": {
+   "age": "31.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT NEW FORMULA",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "192574",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20150107",
+  "reactions": [
+   "ALOPECIA",
+   "EYE IRRITATION",
+   "LYMPHADENOPATHY",
+   "NIGHT SWEATS",
+   "THROAT IRRITATION"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "CK HAIR STRAIGHTENING TREATMENT (COPPOLA KERATIN)",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "131532",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20101027",
+  "reactions": [
+   "HYPOTRICHOSIS",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "39.00",
+   "age_unit": "year(s)"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT SOLUTION PRO TREATMENT FOR SMOOTHING HAIR",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "177818",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20140709",
+  "reactions": [
+   "HAIR DISORDER"
+  ],
+  "date_started": "20140520",
+  "consumer": {
+   "age": "58.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT ACAI PROFESSIONAL SMOOTHING SOLUTION",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "150914",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120329",
+  "reactions": [
+   "HAIR COLOUR CHANGES",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20120309",
+  "consumer": {
+   "age": "47.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE KERATIN INFUSION 30 DAY SMOOTHING  KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2020-CFS-001058",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20181228",
+  "reactions": [
+   "ALOPECIA",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": null,
+  "consumer": {},
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "TRESEMME CONDITIONER WITH KERATIN AND MOROCCAN OIL",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "TRESEMME SHAMPOO WITH KERATIN AND MOROCCAN OIL",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Keratin Smooth Color Shampoo",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "177388",
+  "outcomes": [
+   "Disability",
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140623",
+  "reactions": [
+   "AGEUSIA",
+   "ANOSMIA",
+   "BURNING SENSATION",
+   "CHEST DISCOMFORT",
+   "LACRIMATION INCREASED",
+   "MALAISE",
+   "MIGRAINE",
+   "NAUSEA",
+   "PHARYNGITIS",
+   "VISION BLURRED"
+  ],
+  "date_started": "20140618",
+  "consumer": {},
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2021-CFS-006501",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20210709",
+  "reactions": [
+   "ALOPECIA",
+   "DRY SKIN",
+   "PRURITUS",
+   "SCAB"
+  ],
+  "date_started": "20200101",
+  "consumer": {
+   "age": "35.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "OGX ANTI BREAKAGE AND KERATIN OIL CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "OGX ANTI BREAKAGE AND KERATIN OIL SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "OGX BIOTIN + COLLAGEN CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "OGX BIOTIN + COLLAGEN SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "163098",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20121123",
+  "reactions": [
+   "EYE IRRITATION",
+   "RASH"
+  ],
+  "date_started": "20121119",
+  "consumer": {
+   "age": "42.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "HONEY BRAZILIAN KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "169965",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20130219",
+  "reactions": [
+   "ERYTHEMA",
+   "HYPERSENSITIVITY",
+   "PRURITUS",
+   "RASH PAPULAR",
+   "URTICARIA"
+  ],
+  "date_started": "20130214",
+  "consumer": {
+   "age": "60.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE KERATIN INFUSION CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "JOHN FRIEDA SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "153010",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20101028",
+  "reactions": [
+   "ANXIETY",
+   "DYSPNOEA",
+   "FATIGUE",
+   "HEADACHE",
+   "MALAISE",
+   "NAUSEA",
+   "RESPIRATORY DISTRESS"
+  ],
+  "date_started": "20100911",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT HAIR CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "150981",
+  "outcomes": [
+   "Visited Emergency Room",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20120410",
+  "reactions": [
+   "SWELLING",
+   "THROAT TIGHTNESS",
+   "URTICARIA"
+  ],
+  "date_started": "20120407",
+  "consumer": {
+   "age": "30.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT ACAI PROFESSIONAL SMOOTHING SOLUTION",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2018-CFS-010743",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20180826",
+  "reactions": [
+   "CHEST DISCOMFORT",
+   "HEADACHE",
+   "LACRIMATION INCREASED",
+   "NASAL DISCOMFORT",
+   "OROPHARYNGEAL PAIN"
+  ],
+  "date_started": "20180824",
+  "consumer": {
+   "age": "36.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "143414",
+  "outcomes": [
+   "Life Threatening",
+   "Hospitalization"
+  ],
+  "date_created": "20110913",
+  "reactions": [
+   "BRONCHITIS",
+   "HYPERSENSITIVITY",
+   "PNEUMONIA"
+  ],
+  "date_started": "20100615",
+  "consumer": {
+   "age": "19.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "132733",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20101122",
+  "reactions": [
+   "ALOPECIA EFFLUVIUM",
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "56.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "PETER COPOLLA KERATIN STRAIGHTENING TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "139664",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20110518",
+  "reactions": [
+   "DYSPNOEA",
+   "EAR DISCOMFORT",
+   "EAR PAIN",
+   "EYE PRURITUS",
+   "HEADACHE",
+   "HYPERSENSITIVITY",
+   "LACRIMATION INCREASED",
+   "NASAL DISCOMFORT",
+   "PRURITUS",
+   "SWELLING",
+   "THROAT IRRITATION",
+   "THROAT TIGHTNESS"
+  ],
+  "date_started": "20110429",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "AMERICAN CULTRUE KERATIN STRAIGHTENING",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2018-CFS-007847",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20180606",
+  "reactions": [
+   "ALOPECIA",
+   "DIPLOPIA",
+   "HEADACHE",
+   "PAIN",
+   "VISION BLURRED"
+  ],
+  "date_started": "20180329",
+  "consumer": {
+   "age": "29.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZLIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "BIOTIN",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "IRON",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "132848",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20101129",
+  "reactions": [
+   "EPISTAXIS",
+   "ERYTHEMA",
+   "HYPERAESTHESIA",
+   "INFLAMMATION",
+   "PRURITUS",
+   "RASH",
+   "SKIN BURNING SENSATION",
+   "URTICARIA"
+  ],
+  "date_started": "20101118",
+  "consumer": {
+   "age": "61.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA DESIGNER HAIR CARE KERATIN COMPLEX",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "131005",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20101013",
+  "reactions": [
+   "EYE IRRITATION"
+  ],
+  "date_started": "20100909",
+  "consumer": {
+   "age": "23.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "145179",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20111102",
+  "reactions": [
+   "ASTHENIA",
+   "BURNING SENSATION",
+   "EYE IRRITATION",
+   "HEADACHE"
+  ],
+  "date_started": "20110912",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT SHAMPOO AND CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "152942",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20101015",
+  "reactions": [
+   "BLEPHARITIS",
+   "CAUSTIC INJURY",
+   "EAR CONGESTION",
+   "EPISTAXIS",
+   "EYE IRRITATION",
+   "RESPIRATORY DISTRESS",
+   "RESPIRATORY TRACT IRRITATION",
+   "SINUS CONGESTION"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "42.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT HAIR STRAIGHTENING AND CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "212727",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170301",
+  "reactions": [
+   "EYE IRRITATION",
+   "HEADACHE",
+   "PRESYNCOPE"
+  ],
+  "date_started": "20170223",
+  "consumer": {},
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "LIQUID KERATIN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2019-CFS-010634",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20191019",
+  "reactions": [
+   "EYE PAIN",
+   "RESPIRATORY DISTRESS",
+   "RHINORRHOEA"
+  ],
+  "date_started": "20191019",
+  "consumer": {
+   "age": "61.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN HAIR STRAIGHTENING TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "140097",
+  "outcomes": [
+   "Life Threatening",
+   "Hospitalization"
+  ],
+  "date_created": "20110603",
+  "reactions": [
+   "CHEMICAL EYE INJURY",
+   "EYE IRRITATION",
+   "PHARYNGITIS",
+   "RESPIRATORY DISTRESS",
+   "THROAT IRRITATION"
+  ],
+  "date_started": "20110528",
+  "consumer": {
+   "age": "38.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN BRAZILIAN HAIR",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2021-CFS-006621",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210713",
+  "reactions": [
+   "ALOPECIA",
+   "HAIR TEXTURE ABNORMAL",
+   "SKIN INJURY"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "40.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "OGX ANTI BREAKAGE KERATIN OIL SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "OGX THICK AND FULL BIOTIN AND COLLAGEN SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "153456",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20120614",
+  "reactions": [
+   "ADVERSE REACTION",
+   "HYPERSENSITIVITY",
+   "MIGRAINE"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "57.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN COMPLEX SMOOTHING TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "CREME CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "HAIR DYE",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2018-CFS-012502",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20181015",
+  "reactions": [
+   "CHEST PAIN",
+   "DYSPNOEA",
+   "PULMONARY PAIN"
+  ],
+  "date_started": "20181013",
+  "consumer": {
+   "age": "37.70",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILLIAN BLOWOUT SMOOTHING SYSTEM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Magnesium",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Multivitamin",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "199927",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160808",
+  "reactions": [
+   "CHEST PAIN",
+   "EAR PAIN",
+   "EYE IRRITATION",
+   "EYE PAIN",
+   "HEADACHE"
+  ],
+  "date_started": "20160805",
+  "consumer": {
+   "age": "47.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "CEZANNE PERFECT FINISH KERATIN SMOOTHING TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "VITAMIN D",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "131686",
+  "outcomes": [
+   "Hospitalization",
+   "Visited Emergency Room"
+  ],
+  "date_created": "20101028",
+  "reactions": [
+   "BLOOD PRESSURE INCREASED",
+   "BODY TEMPERATURE INCREASED",
+   "BRONCHIAL IRRITATION",
+   "BURNING SENSATION",
+   "DEHYDRATION",
+   "DIARRHOEA",
+   "DIZZINESS",
+   "HEADACHE",
+   "HEART RATE INCREASED",
+   "NAUSEA",
+   "RASH",
+   "VISION BLURRED",
+   "VOMITING"
+  ],
+  "date_started": "20101007",
+  "consumer": {
+   "age": "40.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SIMPLY SMOOTH BRAZILIAN BLOWOUT TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "145421",
+  "outcomes": [
+   "Required Intervention"
+  ],
+  "date_created": "20111108",
+  "reactions": [
+   "ALOPECIA",
+   "PRURITUS"
+  ],
+  "date_started": "20110820",
+  "consumer": {
+   "age": "38.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOW OUT KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "BIOTIN",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "NIOXIN HAIR TREATMENT SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2022-CFS-002436",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20220218",
+  "reactions": [
+   "ALOPECIA",
+   "RASH"
+  ],
+  "date_started": "20220101",
+  "consumer": {
+   "age": "51.00",
+   "age_unit": "year(s)",
+   "gender": "Male"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "OGX EVER STRAIGHTENING  BRAZILIAN KERATIN THERAPY",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "OGX HYDRATING TEATREE MINT SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Co Q-10",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "133968",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20101221",
+  "reactions": [
+   "ADVERSE REACTION",
+   "BURNING SENSATION",
+   "DYSPNOEA",
+   "HEADACHE",
+   "NAUSEA"
+  ],
+  "date_started": "20101102",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT PROFESSIONAL PRODUCTS",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2021-CFS-007531",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20210802",
+  "reactions": [
+   "DYSPNOEA"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "GOLD LABEL KERATIN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "151871",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120413",
+  "reactions": [
+   "ADVERSE REACTION",
+   "CHEMICAL INJURY",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20120328",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE/KERATIN INFUSION 30 DAY SMOOTHING KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "166590",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20111003",
+  "reactions": [
+   "ALOPECIA",
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN SMOOTHING THERAPY",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "173404",
+  "outcomes": [
+   "Life Threatening",
+   "Required Intervention",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20131224",
+  "reactions": [
+   "AUTOIMMUNE DISORDER",
+   "CHEST PAIN",
+   "COUGH",
+   "DYSPHONIA",
+   "DYSPNOEA",
+   "IMMUNE SYSTEM DISORDER",
+   "INCREASED BRONCHIAL SECRETION",
+   "SWELLING"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "42.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "PETER COPPOLA KERATIN SMOOTHING TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2018-CFS-012149",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20181003",
+  "reactions": [
+   "EYE IRRITATION",
+   "LACRIMATION INCREASED"
+  ],
+  "date_started": "20181003",
+  "consumer": {
+   "age": "21.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILLIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Multi-vitamins",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "175008",
+  "outcomes": [
+   "Disability"
+  ],
+  "date_created": "20140327",
+  "reactions": [
+   "EPISTAXIS",
+   "EYE PRURITUS",
+   "NERVE ROOT LESION",
+   "PHARYNGITIS"
+  ],
+  "date_started": "20121108",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILAIN BLOWOUT HAIR STRAIGHTENING PRODUCT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "135279",
+  "outcomes": [
+   "Other Serious or Important Medical Event",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20110131",
+  "reactions": [
+   "DIZZINESS",
+   "MUSCULAR WEAKNESS",
+   "NERVE INJURY"
+  ],
+  "date_started": "20110114",
+  "consumer": {
+   "age": "43.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "ANDRE WALKER CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "ANDRE WALKER KERATIN SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "150090",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120315",
+  "reactions": [
+   "EYE IRRITATION",
+   "EYELID DISORDER",
+   "LACRIMATION INCREASED",
+   "PAIN"
+  ],
+  "date_started": "20120218",
+  "consumer": {
+   "age": "27.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN COMPLEX",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "214561",
+  "outcomes": [
+   "Disability",
+   "Other Serious or Important Medical Event",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20170629",
+  "reactions": [
+   "ALOPECIA",
+   "BURNING SENSATION",
+   "ERYTHEMA",
+   "INFLAMMATION",
+   "PAIN OF SKIN",
+   "PRURITUS"
+  ],
+  "date_started": "20160731",
+  "consumer": {
+   "age": "64.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Biotin",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Calcium",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Fish Oil",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Grapeseed",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "vitamin D",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "144267",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20111004",
+  "reactions": [
+   "HAIR DISORDER",
+   "HYPOTRICHOSIS",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20110527",
+  "consumer": {
+   "age": "37.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KER KERATIN SMOOTHING TREATMENT BY COPPOLA",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2022-CFS-017078",
+  "outcomes": [
+   "Visited Emergency Room"
+  ],
+  "date_created": "20180525",
+  "reactions": [
+   "BURNING SENSATION",
+   "ERYTHEMA",
+   "EYE IRRITATION",
+   "LYMPHADENOPATHY",
+   "PRURITUS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "62.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Acai Professional Original Smoothing Solution",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2018-CFS-012381",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20181011",
+  "reactions": [
+   "CHEST DISCOMFORT",
+   "HEADACHE"
+  ],
+  "date_started": "20180926",
+  "consumer": {
+   "age": "36.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "CEZANNE CLASSIC KERATIN SMOOTHING TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "176365",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20140508",
+  "reactions": [
+   "BLISTER"
+  ],
+  "date_started": "20140425",
+  "consumer": {
+   "age": "27.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SMOOTH AND SHINE KERATIN HAIR TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "141984",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20110727",
+  "reactions": [
+   "CHRONIC LYMPHOCYTIC LEUKAEMIA"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "54.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "190371",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20150930",
+  "reactions": [
+   "ADVERSE REACTION"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN HAIR TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2018-CFS-007138",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20180515",
+  "reactions": [
+   "ALOPECIA"
+  ],
+  "date_started": "20180501",
+  "consumer": {
+   "age": "69.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE KERATIN INFUSION HEAT DEFENSE LEAVE-IN CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "150607",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20120329",
+  "reactions": [
+   "HYPOTRICHOSIS",
+   "SKIN BURNING SENSATION",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "36.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "130998",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20101013",
+  "reactions": [
+   "CHEST DISCOMFORT",
+   "COUGH",
+   "DYSPNOEA",
+   "EPISTAXIS",
+   "EYE IRRITATION",
+   "NASAL DISCOMFORT"
+  ],
+  "date_started": "20100619",
+  "consumer": {
+   "age": "49.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "THE BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2021-CFS-001537",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20210215",
+  "reactions": [
+   "PAIN",
+   "SKIN ULCER"
+  ],
+  "date_started": "20190530",
+  "consumer": {
+   "age": "38.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "MONAT REVIVE CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "MONAT REVIVE SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "MONAT STUDIO ONE BLOWOUT CREAM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "VITAMIN D",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "131017",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20101014",
+  "reactions": [
+   "DYSPNOEA",
+   "EYE IRRITATION",
+   "LACRIMATION INCREASED"
+  ],
+  "date_started": "20100822",
+  "consumer": {
+   "age": "22.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "STRENGTH BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "157932",
+  "outcomes": [
+   "Visited Emergency Room",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20121001",
+  "reactions": [
+   "ALOPECIA",
+   "BURNING SENSATION",
+   "CELLULITIS",
+   "DERMATITIS CONTACT",
+   "DRY SKIN",
+   "SKIN BURNING SENSATION",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20120827",
+  "consumer": {
+   "age": "68.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "ORGANIX BEAUTY PURE & SIMPLE BRAZILIAN KERATIN CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "ORGANIX BEAUTY PURE & SIMPLE BRAZILIAN KERATIN SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "ORGANIX BEAUTY PURE & SIMPLE BRAZILIAN KERATIN THERAPY ANTI-BREAKAGE SERUM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "152513",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120516",
+  "reactions": [
+   "ALOPECIA",
+   "CHEMICAL BURN OF SKIN",
+   "ERYTHEMA",
+   "HYPOTRICHOSIS",
+   "TENDERNESS",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20120506",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE KERATIN INFUSION 30-DAY SMOOTHING KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "143415",
+  "outcomes": [
+   "Required Intervention"
+  ],
+  "date_created": "20110913",
+  "reactions": [
+   "BURNING SENSATION",
+   "SKIN BURNING SENSATION",
+   "TINNITUS"
+  ],
+  "date_started": "20101009",
+  "consumer": {
+   "age": "33.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT  (ACIA)",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2017-CFS-001101",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20171019",
+  "reactions": [
+   "ILL-DEFINED DISORDER"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Male"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "LUXLISS KERATIN TREATMEANT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "151795",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20101008",
+  "reactions": [
+   "CHOKING",
+   "EYE IRRITATION",
+   "HEADACHE",
+   "NASAL DISCOMFORT",
+   "PHARYNGITIS"
+  ],
+  "date_started": "20101007",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "151011",
+  "outcomes": [
+   "Disability"
+  ],
+  "date_created": "20120411",
+  "reactions": [
+   "ALOPECIA",
+   "HAIR COLOUR CHANGES",
+   "HAIR DISORDER",
+   "HAIR TEXTURE ABNORMAL",
+   "SKIN EXFOLIATION",
+   "SKIN INJURY",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20120402",
+  "consumer": {
+   "age": "37.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE KERATIN INFUSION",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "170362",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20130924",
+  "reactions": [
+   "HAIR DISORDER"
+  ],
+  "date_started": "20130325",
+  "consumer": {
+   "age": "44.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT (ORIGINAL) HAIR STRAIGHTENING",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "164177",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20130404",
+  "reactions": [
+   "ALOPECIA",
+   "HEADACHE",
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": "20130317",
+  "consumer": {
+   "age": "64.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "GLOBAL KERATIN PROLINE",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2022-CFS-017047",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20220317",
+  "reactions": [
+   "DRY SKIN",
+   "PRURITUS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SCHWARZKOPH KERATIN COLOR",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Keratin Color 7.5 Caramel Blonde",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "136393",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20101123",
+  "reactions": [
+   "BURNING SENSATION",
+   "EAR PAIN",
+   "HEADACHE",
+   "LYMPHADENOPATHY",
+   "MUCOSAL INFLAMMATION",
+   "NASOPHARYNGITIS",
+   "OROPHARYNGEAL PAIN",
+   "TENDERNESS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT KERATIN HAIR STRAIGHTENER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "153011",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20101028",
+  "reactions": [
+   "ANXIETY",
+   "DYSPNOEA",
+   "FATIGUE",
+   "HEADACHE",
+   "MALAISE",
+   "NAUSEA",
+   "RESPIRATORY DISTRESS"
+  ],
+  "date_started": "20100911",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT HAIR CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "135186",
+  "outcomes": [
+   "Death"
+  ],
+  "date_created": "20110107",
+  "reactions": [
+   "ANEURYSM",
+   "DEATH"
+  ],
+  "date_started": "20101220",
+  "consumer": {
+   "age": "37.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLLA KERATIN COMPLEX SMOOTHING THERAPY",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "173431",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140124",
+  "reactions": [
+   "ASTHMA",
+   "DYSPNOEA",
+   "HEADACHE",
+   "LETHARGY"
+  ],
+  "date_started": "20140111",
+  "consumer": {
+   "age": "36.00",
+   "age_unit": "year(s)"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "176963",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20140605",
+  "reactions": [
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": "20140516",
+  "consumer": {
+   "age": "61.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "TRESEMME KERATIN SMOOTH 7-DAY SMOOTH SYSTEM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "145314",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20111102",
+  "reactions": [
+   "ASTHENIA",
+   "BURNING SENSATION",
+   "EYE IRRITATION",
+   "HEADACHE"
+  ],
+  "date_started": "20110912",
+  "consumer": {
+   "age": "13.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "132287",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20101117",
+  "reactions": [
+   "EYE IRRITATION",
+   "PAROSMIA"
+  ],
+  "date_started": "20100604",
+  "consumer": {
+   "age": "41.50",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "151870",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120410",
+  "reactions": [
+   "ALOPECIA",
+   "HYPOTRICHOSIS",
+   "PRODUCT COMPLAINT",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20120405",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE PROFESSIONALS KERATIN INFUSION 30 DAY SMOOTHING KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "132202",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20101117",
+  "reactions": [
+   "EYE IRRITATION",
+   "HEADACHE",
+   "SINUS CONGESTION"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Male"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT HAIR STRAIGHTENER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN COMPLEX HAIR STRAIGHTENER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "196901",
+  "outcomes": [
+   "Disability"
+  ],
+  "date_created": "20160531",
+  "reactions": [
+   "DIZZINESS",
+   "FATIGUE",
+   "HEADACHE",
+   "HEART RATE INCREASED",
+   "INSOMNIA",
+   "ORAL DISCOMFORT",
+   "ORAL PAIN",
+   "OROPHARYNGEAL PAIN",
+   "POISONING",
+   "TREMOR"
+  ],
+  "date_started": "20160416",
+  "consumer": {
+   "age": "30.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT ACAI PROFESSIONAL",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "143907",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20110915",
+  "reactions": [
+   "ADVERSE REACTION",
+   "ALOPECIA",
+   "BURNING SENSATION",
+   "COUGH",
+   "SKIN IRRITATION",
+   "THROAT IRRITATION"
+  ],
+  "date_started": "20110530",
+  "consumer": {
+   "age": "46.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "151872",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120415",
+  "reactions": [
+   "ADVERSE REACTION",
+   "ALOPECIA",
+   "BURNING SENSATION",
+   "CHEMICAL BURN OF SKIN",
+   "HYPOTRICHOSIS",
+   "SKIN BURNING SENSATION",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20120413",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE/SUAVE PROFESSIONALS KERATIN INFUSION 30 DAY SMOOTHING KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "149472",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20120229",
+  "reactions": [
+   "APHONIA",
+   "CHEST DISCOMFORT",
+   "DERMATITIS",
+   "DIZZINESS",
+   "DRY SKIN",
+   "EYE IRRITATION",
+   "HEADACHE",
+   "OROPHARYNGEAL PAIN",
+   "SKIN HAEMORRHAGE",
+   "THROAT IRRITATION"
+  ],
+  "date_started": "20120115",
+  "consumer": {
+   "age": "39.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "138128",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20110422",
+  "reactions": [
+   "BRONCHIAL HYPERREACTIVITY",
+   "CHEST PAIN",
+   "COUGH",
+   "EYE IRRITATION",
+   "WHEEZING"
+  ],
+  "date_started": "20100716",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "151463",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20101008",
+  "reactions": [
+   "CHOKING",
+   "EYE IRRITATION",
+   "HEADACHE",
+   "NASAL DISCOMFORT",
+   "PHARYNGITIS"
+  ],
+  "date_started": "20101007",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "71390",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20040709",
+  "reactions": [
+   "BLISTER",
+   "BURNING SENSATION",
+   "THERMAL BURN"
+  ],
+  "date_started": "20040702",
+  "consumer": {
+   "age": "48.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "L'OREAL COLOR RAYS BLOWOUT BLONDE",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "175122",
+  "outcomes": [
+   "Life Threatening",
+   "Hospitalization",
+   "Visited Emergency Room",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20131108",
+  "reactions": [
+   "COUGH"
+  ],
+  "date_started": "20131021",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "ION KERATIN SMOOTHING TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "141116",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20110627",
+  "reactions": [
+   "EYE IRRITATION",
+   "LACRIMATION INCREASED",
+   "NASAL DISCOMFORT"
+  ],
+  "date_started": "20110619",
+  "consumer": {
+   "age": "24.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COCOCHOCO BRAZILIAN KERATIN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "133134",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20101015",
+  "reactions": [
+   "BURNING SENSATION",
+   "DYSPNOEA",
+   "RESPIRATORY DISTRESS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "36.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT SHAMPOO AND CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2019-CFS-006906",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20190706",
+  "reactions": [
+   "LACRIMATION INCREASED",
+   "RHINORRHOEA"
+  ],
+  "date_started": "20190703",
+  "consumer": {
+   "age": "43.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN HAIR TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Iron",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Magnesium",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Multi",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Omega 3",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Vitamin D3",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "139402",
+  "outcomes": [
+   "Other Serious or Important Medical Event",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20110516",
+  "reactions": [
+   "HYPOTRICHOSIS",
+   "PRURITUS",
+   "SKIN BURNING SENSATION"
+  ],
+  "date_started": "20101111",
+  "consumer": {
+   "age": "56.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN HAIR STRAIGHTENINGTREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2019-CFS-007767",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20190731",
+  "reactions": [
+   "HEPATITIS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "47.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN COMPLEX EXPRESS",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "SMOOTH RITUAL UBERLISS",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Probiotic",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "204550",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20161120",
+  "reactions": [
+   "ACUTE SINUSITIS",
+   "DIZZINESS",
+   "FATIGUE",
+   "FEELING ABNORMAL",
+   "HEADACHE",
+   "SOMNOLENCE"
+  ],
+  "date_started": "20161120",
+  "consumer": {
+   "age": "44.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2022-CFS-016091",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20221005",
+  "reactions": [
+   "BURNING SENSATION",
+   "COUGH",
+   "PARAESTHESIA ORAL",
+   "THROAT IRRITATION"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "MAGIC SLEEK",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Keratin",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Typical products found in a hair salon",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "181907",
+  "outcomes": [
+   "Other Serious or Important Medical Event",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20150112",
+  "reactions": [
+   "ALOPECIA",
+   "STRESS"
+  ],
+  "date_started": "20141229",
+  "consumer": {
+   "age": "38.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILLIAN BLOWOUT TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "160563",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20121226",
+  "reactions": [
+   "DYSPNOEA",
+   "OROPHARYNGEAL PAIN"
+  ],
+  "date_started": "20110601",
+  "consumer": {
+   "age": "32.45",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "CADIVEU BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "182030",
+  "outcomes": [
+   "Disability"
+  ],
+  "date_created": "20150115",
+  "reactions": [
+   "BURNING SENSATION",
+   "FEAR",
+   "PAIN"
+  ],
+  "date_started": "20150108",
+  "consumer": {
+   "age": "44.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "ADVACLEAR",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "MAGNESIUM GLYCINATE",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "VITAMIN C",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "187325",
+  "outcomes": [
+   "Disability",
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20150624",
+  "reactions": [
+   "BURNING SENSATION",
+   "EYE DISORDER",
+   "EYE SWELLING",
+   "PERIORBITAL OEDEMA",
+   "PRURITUS",
+   "SKIN OEDEMA",
+   "SWELLING FACE"
+  ],
+  "date_started": "20150616",
+  "consumer": {
+   "age": "44.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "GLOBAL KERATIN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "CALCIUM",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "MULTIVITAMINS",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "174940",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140325",
+  "reactions": [
+   "DEAFNESS",
+   "EYE IRRITATION",
+   "NASAL DISCOMFORT"
+  ],
+  "date_started": "20140222",
+  "consumer": {
+   "age": "36.00",
+   "age_unit": "year(s)"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "199711",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160801",
+  "reactions": [
+   "ALOPECIA",
+   "ALOPECIA AREATA"
+  ],
+  "date_started": "20160603",
+  "consumer": {},
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILLIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2021-CFS-009913",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210930",
+  "reactions": [
+   "DRY EYE",
+   "EYE IRRITATION",
+   "HEADACHE"
+  ],
+  "date_started": "20210929",
+  "consumer": {
+   "age": "37.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT SMOOTHING SOLUTION",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2022-CFS-002692",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20220224",
+  "reactions": [
+   "HEADACHE",
+   "HYPERSENSITIVITY"
+  ],
+  "date_started": "20180601",
+  "consumer": {
+   "age": "55.80",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT CHEMICAL STRAIGHTENER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "132280",
+  "outcomes": [
+   "Required Intervention"
+  ],
+  "date_created": "20101110",
+  "reactions": [
+   "AGEUSIA",
+   "ANOSMIA"
+  ],
+  "date_started": "20100709",
+  "consumer": {
+   "age": "24.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "151091",
+  "outcomes": [
+   "Required Intervention"
+  ],
+  "date_created": "20120412",
+  "reactions": [
+   "HAIR TEXTURE ABNORMAL"
+  ],
+  "date_started": "20120408",
+  "consumer": {
+   "age": "37.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE KERATIN INFUSION 30 DAY SMOOTHING KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2021-CFS-003185",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20210408",
+  "reactions": [
+   "ALOPECIA"
+  ],
+  "date_started": "20210325",
+  "consumer": {
+   "age": "23.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "FUNCTION OF BEAUTY CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "FUNCTION OF BEAUTY SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Multi vitamin",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "biotin",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "keratin",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2018-CFS-012080",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20181002",
+  "reactions": [
+   "BALANCE DISORDER",
+   "DIZZINESS",
+   "DYSARTHRIA",
+   "NERVOUS SYSTEM DISORDER"
+  ],
+  "date_started": "20180929",
+  "consumer": {
+   "age": "39.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "196079",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160505",
+  "reactions": [
+   "EYE IRRITATION",
+   "RESPIRATORY DISORDER"
+  ],
+  "date_started": "20160411",
+  "consumer": {
+   "age": "28.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN CURE CHOCOLATE MAX VL",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "185424",
+  "outcomes": [
+   "Disability",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20150427",
+  "reactions": [
+   "PHOTOPSIA",
+   "RETINAL DETACHMENT",
+   "VISION BLURRED",
+   "VITREOUS DETACHMENT"
+  ],
+  "date_started": "20150421",
+  "consumer": {
+   "age": "59.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "149744",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120306",
+  "reactions": [
+   "LACRIMATION INCREASED",
+   "NASAL DISCOMFORT",
+   "RHINORRHOEA"
+  ],
+  "date_started": "20120303",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "153568",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120416",
+  "reactions": [
+   "ALOPECIA",
+   "BURNING SENSATION",
+   "HYPOTRICHOSIS",
+   "SKIN BURNING SENSATION",
+   "TENDERNESS",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20120323",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE PROFESSIONAL KERATIN INFUSION SMOOTHING KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "132278",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20101110",
+  "reactions": [
+   "EYE IRRITATION",
+   "HEADACHE"
+  ],
+  "date_started": "20101012",
+  "consumer": {
+   "age": "25.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "151873",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120420",
+  "reactions": [
+   "ALOPECIA",
+   "CHEMICAL BURN OF SKIN",
+   "HAIR DISORDER"
+  ],
+  "date_started": "20120416",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE PROFESSIONALS KERATIN INFUSION 30 DAY SMOOTHING KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "132275",
+  "outcomes": [
+   "Life Threatening",
+   "Required Intervention",
+   "Other Serious or Important Medical Event",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20101110",
+  "reactions": [
+   "CHEST PAIN",
+   "COUGH",
+   "DIZZINESS",
+   "DYSPNOEA",
+   "EPISTAXIS",
+   "FATIGUE",
+   "HEADACHE",
+   "MALAISE",
+   "NASAL CONGESTION",
+   "NAUSEA",
+   "PALLOR",
+   "RESPIRATORY TRACT CONGESTION",
+   "VERTIGO"
+  ],
+  "date_started": "20101107",
+  "consumer": {
+   "age": "31.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2021-CFS-006490",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20210708",
+  "reactions": [
+   "INGROWN HAIR",
+   "SCAB"
+  ],
+  "date_started": "20191211",
+  "consumer": {
+   "age": "67.00",
+   "age_unit": "year(s)",
+   "gender": "Male"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "OGX EVER STRAIGHTENING BRAZILIAN KERATIN THERAPY CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "140181",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20110613",
+  "reactions": [
+   "CHEST DISCOMFORT",
+   "CHEST PAIN",
+   "HEADACHE",
+   "LACRIMATION INCREASED",
+   "MYALGIA",
+   "OEDEMA",
+   "PHARYNGITIS",
+   "RESPIRATORY TRACT CONGESTION",
+   "SINUSITIS"
+  ],
+  "date_started": "20110528",
+  "consumer": {
+   "age": "34.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN EXPRESS",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2023-CFS-010212",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20230925",
+  "reactions": [
+   "BURNING SENSATION",
+   "CHEMICAL BURN",
+   "HEADACHE",
+   "NAUSEA"
+  ],
+  "date_started": "20230923",
+  "consumer": {
+   "age": "32.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "207239",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170206",
+  "reactions": [
+   "ERYTHEMA",
+   "PRURITUS",
+   "RASH"
+  ],
+  "date_started": "20170203",
+  "consumer": {
+   "age": "47.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "TRESEMME KERATIN SMOOTH",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "151913",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120425",
+  "reactions": [
+   "ADVERSE REACTION",
+   "ALOPECIA"
+  ],
+  "date_started": "20120306",
+  "consumer": {
+   "age": "20.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE KERATIN INFUSION 30 DAY SMOOTHING KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "136916",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20110318",
+  "reactions": [
+   "DIZZINESS",
+   "EPISTAXIS",
+   "EYE IRRITATION",
+   "HEADACHE",
+   "LIVER FUNCTION TEST ABNORMAL",
+   "NAUSEA",
+   "OROPHARYNGEAL PAIN",
+   "PULMONARY CONGESTION"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "132303",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20101112",
+  "reactions": [
+   "DYSPNOEA",
+   "EYE IRRITATION",
+   "HEADACHE"
+  ],
+  "date_started": null,
+  "consumer": {},
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "204959",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20161122",
+  "reactions": [
+   "ADVERSE REACTION",
+   "BURNING SENSATION",
+   "DYSPNOEA",
+   "EPISTAXIS",
+   "EYE IRRITATION",
+   "EYE SWELLING",
+   "LOCAL SWELLING",
+   "RASH"
+  ],
+  "date_started": "20161031",
+  "consumer": {
+   "age": "28.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "REJUVENOL KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "204788",
+  "outcomes": [
+   "Other Serious or Important Medical Event",
+   "Visited Emergency Room"
+  ],
+  "date_created": "20161130",
+  "reactions": [
+   "DYSPHAGIA",
+   "HERPES VIRUS INFECTION",
+   "LIP SWELLING",
+   "MALAISE",
+   "ORAL HERPES",
+   "PRURITUS",
+   "RASH",
+   "SKIN EXFOLIATION",
+   "SWELLING",
+   "WOUND DRAINAGE"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "65.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "NATURES BOUNTY KERATIN FORMULA HEAL THY HAIR(DIETARY SUPPLEMENT) CAPSULE",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "UNSPECIFIED AGE PERFECT PRODUCT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "133195",
+  "outcomes": [
+   "Disability"
+  ],
+  "date_created": "20101208",
+  "reactions": [
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": "20100801",
+  "consumer": {
+   "age": "34.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SIMPLY SMOOTH KERATIN BASED SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "151885",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120501",
+  "reactions": [
+   "ALOPECIA",
+   "HAIR DISORDER"
+  ],
+  "date_started": "20120426",
+  "consumer": {
+   "age": "26.91",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUVE PROFESSIONAL KERATIN KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2020-CFS-000079",
+  "outcomes": [
+   "Other Serious or Important Medical Event",
+   "Visited Emergency Room"
+  ],
+  "date_created": "20200103",
+  "reactions": [
+   "DYSPNOEA",
+   "HEART RATE INCREASED"
+  ],
+  "date_started": "20191205",
+  "consumer": {
+   "age": "50.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "URBAN MOONSHINE IMMUNE ZOOM",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Chromium picolinate",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Coenzyme QlO with cinnamon",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Collagen 1 and 3",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Hydrolife",
+    "industry_code": "29",
+    "industry_name": "Soft Drink/Water"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Keratin",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "MSM/Chrondroitin",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Milk thistle",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Neo Collagen",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Omega 3 Krill",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Saw palmetto",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Turmeric",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Vitamin C",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Vitamin D",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "139236",
+  "outcomes": [
+   "Other Serious or Important Medical Event",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20110520",
+  "reactions": [
+   "BLEPHARITIS",
+   "BURNING SENSATION",
+   "COUGH",
+   "DRY MOUTH",
+   "DYSPHAGIA",
+   "DYSPNOEA",
+   "EPISTAXIS",
+   "ERYTHEMA",
+   "FOREIGN BODY SENSATION IN EYES",
+   "HEADACHE",
+   "LACRIMATION INCREASED",
+   "MIGRAINE",
+   "OROPHARYNGEAL PAIN",
+   "SINUS HEADACHE",
+   "VISION BLURRED"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "154383",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120711",
+  "reactions": [
+   "BLISTER",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE KERATIN INFUSION TREATMENT 30 DAY SOOTHING KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2017-CFS-000408",
+  "outcomes": [
+   "Life Threatening",
+   "Hospitalization",
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170920",
+  "reactions": [
+   "ACUTE MYELOID LEUKAEMIA"
+  ],
+  "date_started": "20170210",
+  "consumer": {
+   "age": "52.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN COMPLEX",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "MAGNESIUM SUPPLEMENT",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "2021-CFS-006561",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20210711",
+  "reactions": [
+   "ALOPECIA",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20210710",
+  "consumer": {
+   "age": "49.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "OGX BRAZILIAN KERATIN  THERAPY CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "124344",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20100312",
+  "reactions": [
+   "DIZZINESS",
+   "HEADACHE",
+   "VISION BLURRED"
+  ],
+  "date_started": "20100310",
+  "consumer": {
+   "age": "31.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "131251",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20101020",
+  "reactions": [
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": "20101001",
+  "consumer": {
+   "age": "35.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT SOLUTION",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "141246",
+  "outcomes": [
+   "Death",
+   "Visited Emergency Room"
+  ],
+  "date_created": "20110712",
+  "reactions": [
+   "DEATH",
+   "EYE IRRITATION",
+   "INTRA-UTERINE DEATH",
+   "LACRIMATION INCREASED",
+   "NASAL DISCOMFORT",
+   "PHARYNGITIS",
+   "SINUSITIS"
+  ],
+  "date_started": "20110422",
+  "consumer": {
+   "age": "31.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "143337",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20110912",
+  "reactions": [
+   "ASTHMA",
+   "CLUSTER HEADACHE",
+   "EPISTAXIS",
+   "GASTROOESOPHAGEAL REFLUX DISEASE",
+   "INCREASED UPPER AIRWAY SECRETION",
+   "PULMONARY CONGESTION",
+   "UPPER RESPIRATORY TRACT INFECTION"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "179044",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20140527",
+  "reactions": [
+   "DYSPNOEA EXERTIONAL",
+   "HEART RATE ABNORMAL",
+   "RHINORRHOEA"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT ACAI PROFESSIONAL SMOOTHING SOLUTION",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "152940",
+  "outcomes": [
+   "Life Threatening",
+   "Hospitalization",
+   "Required Intervention",
+   "Visited Emergency Room",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20101021",
+  "reactions": [
+   "ABNORMAL LOSS OF WEIGHT",
+   "ALOPECIA",
+   "APHASIA",
+   "ASTHMA",
+   "BURNING SENSATION",
+   "CHEST DISCOMFORT",
+   "DIZZINESS",
+   "DYSPNOEA",
+   "EXPOSURE TO TOXIC AGENT",
+   "EYE IRRITATION",
+   "HEADACHE",
+   "HYPOAESTHESIA",
+   "INFLUENZA LIKE ILLNESS",
+   "LOCAL SWELLING",
+   "NASAL DISCOMFORT",
+   "NAUSEA",
+   "PAIN OF SKIN",
+   "RESPIRATORY DISTRESS",
+   "SKIN BURNING SENSATION",
+   "SWELLING",
+   "TRICHORRHEXIS",
+   "URTICARIA",
+   "VOMITING",
+   "WEIGHT DECREASED"
+  ],
+  "date_started": "20100925",
+  "consumer": {
+   "age": "47.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT HAIR STRAIGHTENER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "133841",
+  "outcomes": [
+   "Hospitalization",
+   "Required Intervention"
+  ],
+  "date_created": "20101210",
+  "reactions": [
+   "BRONCHITIS",
+   "COUGH",
+   "DYSPHONIA",
+   "DYSPNOEA",
+   "EYE IRRITATION",
+   "FATIGUE",
+   "MEMORY IMPAIRMENT",
+   "NASAL DISCOMFORT",
+   "PNEUMONITIS",
+   "PNEUMONITIS CHEMICAL",
+   "PRODUCTIVE COUGH",
+   "RHINORRHOEA",
+   "SINUS OPERATION",
+   "SWELLING FACE",
+   "THROAT IRRITATION"
+  ],
+  "date_started": "20101117",
+  "consumer": {
+   "age": "53.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERAGREEN ORGANIC KERATIN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATRIPLEX TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2022-CFS-006551",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20220503",
+  "reactions": [
+   "CYST"
+  ],
+  "date_started": "20201126",
+  "consumer": {
+   "age": "22.00",
+   "age_unit": "year(s)",
+   "gender": "Male"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SEVICH KERATIN HAIR BUILDING FIBERS",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "131687",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20101028",
+  "reactions": [
+   "BURNING SENSATION",
+   "EYELID IRRITATION",
+   "HEADACHE",
+   "LACRIMATION INCREASED",
+   "NASAL DISCOMFORT"
+  ],
+  "date_started": "20100728",
+  "consumer": {
+   "age": "37.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2019-CFS-006594",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20190625",
+  "reactions": [
+   "AIRWAY BURNS",
+   "EYE IRRITATION",
+   "PAIN"
+  ],
+  "date_started": "20190515",
+  "consumer": {
+   "age": "40.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILLIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2021-CFS-001626",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20210217",
+  "reactions": [
+   "EYE IRRITATION",
+   "SKIN IRRITATION"
+  ],
+  "date_started": "20210217",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERAZON BRAZILIAN KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERAZON INTENSIVE HAIR MASK",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERAZON PRE-TREATMENT SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "153736",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20120625",
+  "reactions": [
+   "HEADACHE",
+   "HYPOTRICHOSIS",
+   "PRURITUS"
+  ],
+  "date_started": "20120501",
+  "consumer": {
+   "age": "35.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN EXPRESS BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "189096",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20150820",
+  "reactions": [
+   "DRUG SCREEN POSITIVE"
+  ],
+  "date_started": "20150804",
+  "consumer": {
+   "age": "59.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "ADVANCE MULT-VITA-MIN-AMINO",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "NUTRA-GLOW SKIN FORMULA",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "BIOTIN",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "CALCIUM",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "COLLAGEN",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "FISH OIL",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "KERATIN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "MAGNESIUM",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "POTASSIUM",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "PRENATAL MULTI-VITAMIN",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "VITAMIN E",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "132039",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20101112",
+  "reactions": [
+   "BURNING SENSATION",
+   "EPISTAXIS",
+   "EYE IRRITATION",
+   "HEADACHE",
+   "OROPHARYNGEAL SWELLING"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT HAIR STRAIGHTENER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "203353",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20161023",
+  "reactions": [
+   "BURNING SENSATION",
+   "COUGH",
+   "LACRIMATION INCREASED",
+   "THROAT IRRITATION"
+  ],
+  "date_started": "20161023",
+  "consumer": {
+   "age": "41.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "149677",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120307",
+  "reactions": [
+   "DIZZINESS",
+   "FOLLICULITIS",
+   "NAUSEA",
+   "SINUSITIS",
+   "VISUAL IMPAIRMENT"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT KERATIN STRAIGHTENER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "172434",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20131126",
+  "reactions": [
+   "CRYING",
+   "HAIR DISORDER",
+   "HYPOTRICHOSIS",
+   "RHEUMATOID FACTOR QUANTITATIVE INCREASED",
+   "VITAMIN D DECREASED"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "32.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "RAW NATIVE KERATIN, MANE TAME, KERATIN SPRAY",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "MULTI VITAMIN",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "VITAMIN D",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "131804",
+  "outcomes": [
+   "Hospitalization"
+  ],
+  "date_created": "20101105",
+  "reactions": [
+   "APHONIA",
+   "DIZZINESS",
+   "HEADACHE",
+   "RESPIRATORY TRACT IRRITATION",
+   "SINUS DISORDER",
+   "SKIN IRRITATION",
+   "THROAT IRRITATION"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN HAIR TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "142077",
+  "outcomes": [
+   "Other Serious or Important Medical Event",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20110802",
+  "reactions": [
+   "ANXIETY",
+   "DEPRESSION",
+   "DIARRHOEA",
+   "FEAR",
+   "MUSCLE CONTRACTIONS INVOLUNTARY",
+   "PANIC ATTACK",
+   "VITAMIN B COMPLEX DEFICIENCY"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN INFUSION LEAVE IN KERATIN REPLENISHER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2022-CFS-010729",
+  "outcomes": [
+   "Life Threatening",
+   "Hospitalization",
+   "Disability",
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20220708",
+  "reactions": [
+   "ACUTE MYELOID LEUKAEMIA",
+   "CHEST PAIN",
+   "EPISTAXIS",
+   "PHARYNGEAL OEDEMA",
+   "SWELLING"
+  ],
+  "date_started": "20160101",
+  "consumer": {
+   "age": "38.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILLIAN BLOWOUT PROFESSIONAL SMOOTHING SYSTEM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "B Complex",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Cbd",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Cbg",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Cranberry",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Garlic",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Thc",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Tylenol",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Vitamin C",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Vitamin D",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Zinc",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "132276",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20101110",
+  "reactions": [
+   "EYE IRRITATION"
+  ],
+  "date_started": "20100908",
+  "consumer": {
+   "age": "30.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "202704",
+  "outcomes": [
+   "Disability",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20161006",
+  "reactions": [
+   "DIARRHOEA",
+   "HYPOAESTHESIA",
+   "INFLUENZA LIKE ILLNESS",
+   "NAUSEA",
+   "PARAESTHESIA",
+   "PRURITUS"
+  ],
+  "date_started": "20160713",
+  "consumer": {
+   "age": "44.63",
+   "age_unit": "year(s)"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT A\u00c7AI PROFESSIONAL",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2018-CFS-003366",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20180225",
+  "reactions": [
+   "BACK PAIN",
+   "BURNING SENSATION",
+   "HEADACHE"
+  ],
+  "date_started": "20180224",
+  "consumer": {
+   "age": "23.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "163594",
+  "outcomes": [
+   "Life Threatening",
+   "Hospitalization",
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130319",
+  "reactions": [
+   "EPISTAXIS"
+  ],
+  "date_started": "20130308",
+  "consumer": {},
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN COMPLEX",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "150975",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120409",
+  "reactions": [
+   "ALOPECIA",
+   "SKIN BURNING SENSATION"
+  ],
+  "date_started": null,
+  "consumer": {},
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE KERATIN INFUSION 30 DAY SMOOTHING KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "139399",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20110526",
+  "reactions": [
+   "COUGH",
+   "HYPOTRICHOSIS",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20110304",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "152138",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120508",
+  "reactions": [
+   "HYPOTRICHOSIS",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20120429",
+  "consumer": {
+   "age": "39.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE KERATIN INFUSION 30 DAY SMOOTHING KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "157215",
+  "outcomes": [
+   "Hospitalization",
+   "Other Serious or Important Medical Event",
+   "Visited Emergency Room"
+  ],
+  "date_created": "20120928",
+  "reactions": [
+   "CHEST DISCOMFORT",
+   "DIZZINESS",
+   "DYSPNOEA",
+   "EPISTAXIS",
+   "HEADACHE",
+   "PAIN",
+   "RESPIRATORY TRACT CONGESTION",
+   "THOUGHT BLOCKING"
+  ],
+  "date_started": "20120901",
+  "consumer": {
+   "age": "29.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN COMPLEX SMOOTHING TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "176596",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140519",
+  "reactions": [
+   "BURNING SENSATION",
+   "PARAESTHESIA",
+   "PRURITUS",
+   "SWELLING"
+  ],
+  "date_started": "20140516",
+  "consumer": {
+   "age": "43.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "GLOBAL KERATIN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "CALCIUM",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "MULTIVITAMIN",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "196582",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20160520",
+  "reactions": [
+   "DIZZINESS",
+   "EYE BURNS",
+   "MIGRAINE",
+   "NASAL DISCOMFORT",
+   "OROPHARYNGEAL PAIN"
+  ],
+  "date_started": "20160518",
+  "consumer": {
+   "age": "30.99",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "131003",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20101013",
+  "reactions": [
+   "EYE IRRITATION",
+   "HEADACHE",
+   "NASAL DISCOMFORT",
+   "PHARYNGITIS"
+  ],
+  "date_started": "20100601",
+  "consumer": {
+   "age": "40.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "147796",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20120112",
+  "reactions": [
+   "CHEST PAIN",
+   "COUGH",
+   "EYE IRRITATION",
+   "HEADACHE",
+   "NAUSEA"
+  ],
+  "date_started": "20110416",
+  "consumer": {
+   "age": "41.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT KERATIN SMOOTH",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT ZERO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "133107",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20101202",
+  "reactions": [
+   "COUGH",
+   "EYE IRRITATION",
+   "LACRIMATION INCREASED",
+   "OCULAR HYPERAEMIA"
+  ],
+  "date_started": "20100319",
+  "consumer": {
+   "age": "34.87",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT ACAI STRAIGHTENER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "166682",
+  "outcomes": [
+   "Other Serious or Important Medical Event",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20130618",
+  "reactions": [
+   "EPISTAXIS",
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": "20121103",
+  "consumer": {
+   "age": "39.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "136388",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20101019",
+  "reactions": [
+   "ADVERSE REACTION",
+   "DIZZINESS",
+   "EYE IRRITATION",
+   "HYPERSENSITIVITY",
+   "NASAL DISCOMFORT",
+   "PALPITATIONS",
+   "THROAT IRRITATION"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERITIN TREATMENT AND EXPRESS BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "166420",
+  "outcomes": [
+   "Visited Emergency Room"
+  ],
+  "date_created": "20130610",
+  "reactions": [
+   "EYE IRRITATION",
+   "SKIN BURNING SENSATION"
+  ],
+  "date_started": "20130605",
+  "consumer": {
+   "age": "63.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "MARK ANTHONY FRIZZ FREE KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "207099",
+  "outcomes": [
+   "Disability"
+  ],
+  "date_created": "20170201",
+  "reactions": [
+   "BURNING SENSATION",
+   "EYE IRRITATION",
+   "SINUS DISORDER",
+   "SNEEZING"
+  ],
+  "date_started": "20170128",
+  "consumer": {
+   "age": "38.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT ACAI PROFESSIONAL SMOOTHING",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "131040",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20100928",
+  "reactions": [
+   "CHEST PAIN",
+   "DYSPNOEA",
+   "EYE IRRITATION",
+   "RASH",
+   "SYNCOPE"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Male"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT SOLUTION PRO TREATMENT FOR SMOOTHING HAIR",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "138796",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20110429",
+  "reactions": [
+   "BREAST MASS",
+   "CHEST DISCOMFORT",
+   "COUGH",
+   "DIZZINESS",
+   "DYSPNOEA",
+   "EYE IRRITATION",
+   "RASH PRURITIC",
+   "RED BLOOD CELL COUNT DECREASED",
+   "SKIN IRRITATION",
+   "THROAT IRRITATION",
+   "THYROID NEOPLASM",
+   "THYROID PAIN"
+  ],
+  "date_started": "20110428",
+  "consumer": {
+   "age": "36.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN EXPRESS BLOW OUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN SMOOTHING COMPLEX",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "151973",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20120503",
+  "reactions": [
+   "ALOPECIA",
+   "INFLAMMATION",
+   "PAIN OF SKIN"
+  ],
+  "date_started": "20120416",
+  "consumer": {
+   "age": "56.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE KERATIN INFUSION 3 STEP",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2023-CFS-005118",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20211026",
+  "reactions": [
+   "EYE IRRITATION",
+   "HEADACHE",
+   "NASAL DISCOMFORT"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT ACAI PROFESSIONAL SMOOTHING SOLUTION (BRAZILIAN BLOWOUT)",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Brazilian Blowout Acai Professional Smoothing Solution",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "177945",
+  "outcomes": [
+   "Disability",
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20140715",
+  "reactions": [
+   "CAUSTIC INJURY",
+   "EYE IRRITATION",
+   "MALAISE",
+   "RASH"
+  ],
+  "date_started": "20140414",
+  "consumer": {
+   "age": "39.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "150551",
+  "outcomes": [
+   "Life Threatening",
+   "Required Intervention",
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20120328",
+  "reactions": [
+   "LUNG NEOPLASM MALIGNANT"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "56.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN COMPLEX",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "135155",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20110203",
+  "reactions": [
+   "BLISTER",
+   "HYPERSENSITIVITY",
+   "HYPOTRICHOSIS",
+   "RASH"
+  ],
+  "date_started": "20101014",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "132453",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20100920",
+  "reactions": [
+   "ALOPECIA",
+   "HYPOTRICHOSIS",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "age": "50.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN COMPLEX",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "152110",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120509",
+  "reactions": [
+   "ALOPECIA"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE 30-DAY KERATIN INFUSION HAIR TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "176319",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20140507",
+  "reactions": [
+   "ANOREXIA",
+   "FATIGUE",
+   "FEELING ABNORMAL",
+   "HEADACHE",
+   "MALAISE",
+   "NAUSEA"
+  ],
+  "date_started": "20140429",
+  "consumer": {
+   "age": "30.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT FORMALDEHYDE",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "GLUCOSAMINE",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "2023-CFS-005252",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20230522",
+  "reactions": [
+   "COUGH",
+   "DIZZINESS",
+   "EPISTAXIS",
+   "EYE IRRITATION",
+   "HEADACHE",
+   "OROPHARYNGEAL PAIN"
+  ],
+  "date_started": "20230519",
+  "consumer": {
+   "age": "51.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "GOLDWELL KERATIN SMOOTHING",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "MAGIC SLEEK",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "TRISSOLA TRUE",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "175625",
+  "outcomes": [
+   "Other Serious or Important Medical Event",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20140414",
+  "reactions": [
+   "BURNING SENSATION",
+   "ERYTHEMA",
+   "PRURITUS",
+   "RASH",
+   "SKIN EXFOLIATION"
+  ],
+  "date_started": "20140409",
+  "consumer": {
+   "age": "74.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE KERATIN INFUSION CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2022-CFS-003685",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20220314",
+  "reactions": [
+   "EYE IRRITATION",
+   "LACRIMATION INCREASED",
+   "NASAL DISCOMFORT"
+  ],
+  "date_started": "20220312",
+  "consumer": {
+   "age": "32.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "G HAIR KERATIN MARROQUI 2 G HAIR",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Iron",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Multi Vitamins",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "175942",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20140421",
+  "reactions": [
+   "ALOPECIA",
+   "SKIN DISCOLOURATION"
+  ],
+  "date_started": "20130610",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN COPPOLA",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "139687",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20110601",
+  "reactions": [
+   "EYE IRRITATION",
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "188289",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20150728",
+  "reactions": [
+   "DIZZINESS",
+   "DRY MOUTH",
+   "HYPERHIDROSIS",
+   "HYPERSENSITIVITY",
+   "PARAESTHESIA",
+   "SKIN EXFOLIATION",
+   "TACHYCARDIA"
+  ],
+  "date_started": "20150708",
+  "consumer": {
+   "age": "40.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "178843",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20140825",
+  "reactions": [
+   "COUGH",
+   "LACRIMATION INCREASED",
+   "NASAL DISCOMFORT",
+   "PANIC ATTACK",
+   "PARAESTHESIA"
+  ],
+  "date_started": "20140822",
+  "consumer": {
+   "age": "51.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT KERATIN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "142537",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20110817",
+  "reactions": [
+   "COUGH",
+   "EYE IRRITATION"
+  ],
+  "date_started": "20110809",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "NATURA KERATIN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2018-CFS-013248",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20181105",
+  "reactions": [
+   "DRY MOUTH",
+   "HAIR TEXTURE ABNORMAL",
+   "LIP DRY"
+  ],
+  "date_started": "20181104",
+  "consumer": {
+   "age": "55.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN SMOOTHING CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN SMOOTHING SHAMPOO",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "151852",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120426",
+  "reactions": [
+   "ALOPECIA",
+   "BURNING SENSATION",
+   "HAIR COLOUR CHANGES",
+   "HAIR TEXTURE ABNORMAL",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20120414",
+  "consumer": {
+   "age": "35.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE KERATIN INFUSION TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "199664",
+  "outcomes": [
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20160801",
+  "reactions": [
+   "ALOPECIA",
+   "CHEMICAL INJURY",
+   "ERYTHEMA",
+   "HAIR TEXTURE ABNORMAL",
+   "HYPERSENSITIVITY",
+   "PRURITUS",
+   "SCAB",
+   "SECRETION DISCHARGE",
+   "TRICHORRHEXIS",
+   "WOUND"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT HAIR STRAIGHTENER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "151796",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120430",
+  "reactions": [
+   "HYPOTRICHOSIS",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20120428",
+  "consumer": {
+   "age": "33.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE PROFESSIONAL KERATIN INFUSION 30 DAY SMOOTHING KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "163619",
+  "outcomes": [
+   "Life Threatening",
+   "Hospitalization",
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20130319",
+  "reactions": [
+   "COUGH",
+   "HEADACHE"
+  ],
+  "date_started": "20130308",
+  "consumer": {},
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN COMPLEX SMOOTHING TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "151877",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120427",
+  "reactions": [
+   "HAIR TEXTURE ABNORMAL",
+   "HYPOTRICHOSIS",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20120417",
+  "consumer": {
+   "age": "21.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE PROFESSIONAL KERATIN INFUSION HAIR SMOOTHING KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "ION PURIFYING SOLUTION",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "157602",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120928",
+  "reactions": [
+   "CYST",
+   "DYSPNOEA",
+   "MUCOSAL INFLAMMATION",
+   "NAUSEA",
+   "RESPIRATORY DISORDER",
+   "SINUSITIS"
+  ],
+  "date_started": "20120920",
+  "consumer": {
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN COMPLEX SMOOTHING STRAIGHTENING SYSTEM",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "134558",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20101014",
+  "reactions": [
+   "URTICARIA"
+  ],
+  "date_started": "20100822",
+  "consumer": {},
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "184344",
+  "outcomes": [
+   "Other Serious or Important Medical Event",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20150401",
+  "reactions": [
+   "URTICARIA"
+  ],
+  "date_started": "20150329",
+  "consumer": {
+   "age": "36.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SCHWARZKOPF KERATIN COLOR CASHMERE BROWN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "CITRACAL",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "VITAMIN D",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "2022-CFS-009474",
+  "outcomes": [
+   "Hospitalization"
+  ],
+  "date_created": "20220609",
+  "reactions": [
+   "DRUG-INDUCED LIVER INJURY",
+   "LIVER INJURY"
+  ],
+  "date_started": null,
+  "consumer": {
+   "gender": "Male"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "CARE OF ASHWAGANDHA",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Astaxanthin",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Keratin",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Probiotic Blend",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Superberry",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Veggie Omega",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "Vitamin D",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "141097",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20110705",
+  "reactions": [
+   "HEADACHE",
+   "LACRIMATION INCREASED",
+   "RASH PRURITIC"
+  ],
+  "date_started": "20110628",
+  "consumer": {
+   "age": "42.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "COPPOLA KERATIN COMPLEX SMOOTHING THERAPY",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "156773",
+  "outcomes": [
+   "Hospitalization"
+  ],
+  "date_created": "20120919",
+  "reactions": [
+   "LUNG DISORDER"
+  ],
+  "date_started": "20110710",
+  "consumer": {
+   "age": "51.09",
+   "age_unit": "year(s)",
+   "gender": "Male"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "132033",
+  "outcomes": [
+   "Life Threatening",
+   "Visited Emergency Room",
+   "Visited a Health Care Provider"
+  ],
+  "date_created": "20101109",
+  "reactions": [
+   "BLISTER",
+   "BLOOD CORTISOL INCREASED",
+   "BLOOD FOLATE INCREASED",
+   "CAUSTIC INJURY",
+   "CHEST DISCOMFORT",
+   "DENTAL CARIES",
+   "DIZZINESS",
+   "DYSPNOEA",
+   "GINGIVAL BLEEDING",
+   "HEADACHE",
+   "HEART RATE INCREASED",
+   "HEPATIC ENZYME INCREASED",
+   "HYPOTRICHOSIS",
+   "MOUTH ULCERATION",
+   "NAUSEA",
+   "PCO2 INCREASED",
+   "RESPIRATORY DISTRESS",
+   "TOOTH INJURY",
+   "VOMITING",
+   "WEIGHT DECREASED",
+   "WHITE BLOOD CELL COUNT INCREASED"
+  ],
+  "date_started": "20100922",
+  "consumer": {
+   "age": "47.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT HAIR STRAIGHTENING AND CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "208370",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20170301",
+  "reactions": [
+   "DIZZINESS",
+   "EYE IRRITATION",
+   "HEADACHE",
+   "MALAISE",
+   "OROPHARYNGEAL PAIN",
+   "PRESYNCOPE",
+   "THROAT IRRITATION"
+  ],
+  "date_started": "20170223",
+  "consumer": {
+   "age": "46.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "LIQUID KERATIN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "155968",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20120829",
+  "reactions": [
+   "COUGH",
+   "DISCOMFORT",
+   "DYSPNOEA",
+   "EYE IRRITATION",
+   "HEADACHE",
+   "INSOMNIA",
+   "NASAL DISCOMFORT",
+   "PAIN",
+   "RHINORRHOEA",
+   "SOMNOLENCE",
+   "THROAT IRRITATION"
+  ],
+  "date_started": "20120822",
+  "consumer": {
+   "age": "29.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT ACAI PROFESSIONAL SMOOTHING SOLUTION",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "160090",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20121213",
+  "reactions": [
+   "BURNING SENSATION",
+   "DIZZINESS",
+   "NAUSEA"
+  ],
+  "date_started": "20121211",
+  "consumer": {
+   "age": "37.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT TREATMENT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "200382",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20160819",
+  "reactions": [
+   "ALOPECIA",
+   "PRURITUS",
+   "SKIN IRRITATION"
+  ],
+  "date_started": "20160714",
+  "consumer": {
+   "age": "43.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "WEN CLEANSING CONDITIONER",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "BIOTIN",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "KERATIN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "2019-CFS-003871",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20190412",
+  "reactions": [
+   "CHEMICAL INJURY",
+   "CHEST DISCOMFORT",
+   "DYSPNOEA",
+   "EPISTAXIS",
+   "RASH",
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20190118",
+  "consumer": {
+   "age": "46.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "KERATIN COMPLEX",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "142164",
+  "outcomes": [
+   "Other Serious or Important Medical Event"
+  ],
+  "date_created": "20110718",
+  "reactions": [
+   "HYPOTRICHOSIS"
+  ],
+  "date_started": "20110701",
+  "consumer": {
+   "age": "41.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT SHAMPOO CONDIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILIAN BLOWOUT SOLUTION",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "152136",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20120507",
+  "reactions": [
+   "TRICHORRHEXIS"
+  ],
+  "date_started": "20120504",
+  "consumer": {
+   "age": "26.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "SUAVE PROFESSIONALS 30 DAY KERATIN INFUSION KIT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   }
+  ]
+ },
+ {
+  "report_number": "201633",
+  "outcomes": [
+   "Hospitalization",
+   "Disability",
+   "Other Serious or Important Medical Event",
+   "Visited Emergency Room"
+  ],
+  "date_created": "20160915",
+  "reactions": [
+   "ALOPECIA",
+   "HYPERSENSITIVITY"
+  ],
+  "date_started": "20160901",
+  "consumer": {
+   "age": "21.80",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "GARNIER OLIA DARKEST BROWN 3.0",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "BIOTIN",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "KERATIN",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "MULTIVITAMIN",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "ZINC",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ },
+ {
+  "report_number": "2021-CFS-011662",
+  "outcomes": [
+   "Other Outcome"
+  ],
+  "date_created": "20211118",
+  "reactions": [
+   "CHEMICAL INJURY",
+   "PAIN",
+   "PRURITUS",
+   "SCAR"
+  ],
+  "date_started": "20211117",
+  "consumer": {
+   "age": "39.00",
+   "age_unit": "year(s)",
+   "gender": "Female"
+  },
+  "products": [
+   {
+    "role": "SUSPECT",
+    "name_brand": "BRAZILLIAN BLOWOUT",
+    "industry_code": "53",
+    "industry_name": "Cosmetics"
+   },
+   {
+    "role": "CONCOMITANT",
+    "name_brand": "VITAMINS",
+    "industry_code": "54",
+    "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+   }
+  ]
+ }
+]

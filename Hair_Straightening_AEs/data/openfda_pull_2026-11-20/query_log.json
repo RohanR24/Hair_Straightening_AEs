@@ -1,0 +1,29 @@
+{
+ "run_date": "2026-11-20",
+ "queries": [
+  {
+   "query": "Relaxer/alkali",
+   "url": "https://api.fda.gov/food/event.json?search=products.industry_code:53+AND+(products.name_brand:\"relaxer\"+OR+products.name_brand:\"lye\"+OR+products.name_brand:\"perm\")&limit=1000",
+   "last_updated": "2026-11-06",
+   "reports_returned": 76
+  },
+  {
+   "query": "Keratin/blowout",
+   "url": "https://api.fda.gov/food/event.json?search=products.industry_code:53+AND+(products.name_brand:\"keratin\"+OR+products.name_brand:\"blowout\")&limit=1000",
+   "last_updated": "2026-11-06",
+   "reports_returned": 276
+  },
+  {
+   "query": "Both cohorts combined",
+   "url": "https://api.fda.gov/food/event.json?search=products.industry_code:53+AND+(products.name_brand:\"relaxer\"+OR+products.name_brand:\"lye\"+OR+products.name_brand:\"perm\"+OR+products.name_brand:\"keratin\"+OR+products.name_brand:\"blowout\")&limit=1",
+   "last_updated": "2026-11-06",
+   "reports_returned": 352
+  },
+  {
+   "query": "All cosmetic reports (industry code 53)",
+   "url": "https://api.fda.gov/food/event.json?search=products.industry_code:53&limit=1",
+   "last_updated": "2026-11-06",
+   "reports_returned": 52223
+  }
+ ]
+}
